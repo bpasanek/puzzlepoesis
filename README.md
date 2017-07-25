@@ -32,7 +32,8 @@ An empty sonnet (14 x 10 grid):
   
   But note, our solutions should not divide words, which means there are constraints (represented below with question marks and hyphens).
   
-  Sonnet 2
+  Sonnet 2:
+  
        L:stationary=*
         . ?-? ?-? . ?-? . .
         . . . ?-? . . ?-? .
@@ -50,7 +51,8 @@ An empty sonnet (14 x 10 grid):
         . . . . . . . . . .
         ~L
   
- Sonnet 2
+ Sonnet 2:
+ 
  [1] "When forty winters shall besiege thy brow"          
  [2] "And dig deep trenches in thy beauty's field,"       
  [3] "Thy youth's proud livery, so gazed on now,"         
