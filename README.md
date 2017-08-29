@@ -10,7 +10,7 @@ For reference, the complete set of pentominoes appears below with the pieces lab
 
 ![12 Pentominoes](/images/pentominoes.jpg)
 
-An example of a puzzle created by hand:
+An example of a puzzle created by hand (Sonnet 1):
 
 ![Sonnet 1, cut up by hand](/images/sonnet1.jpg)
 
@@ -26,7 +26,7 @@ Katherine includes the following instructions:
 
 In one canonical pentomino puzzle, the 12 pentomino pieces are packed into a 6 x 10 grid. This 6 x 10 puzzle has been solved computationally and it is known that there are 2,339 ways to fit 12 pentominoes into a 6 x 10 grid. 
 
-One of our first jobs is to rewrite this code to solve sonnet-shaped puzzles. In the case of sonnets, we have 14 x 10 grids (14 lines, 10 syllables per line). English majors may note that 6 x 10 is the shape of a sestet, the last six lines of a sonnet. Traditionally, the sestet provides an answer to the question posed in the first eight lines of the poem called the "octave." It may then be ideal (and cleverly meaningful) to pack the octave and sestet of our sonnets separately. Brad thinks below out loud about what this packing will entail. For one thing, most pieces will have to appear more than once (at least once in the sestet, then most or all will appear again in the octave). It would be most elegant to pack the octave with as many different shapes as will fit.
+One of our first jobs is to rewrite this code to solve sonnet-shaped puzzles. In the case of sonnets, we have 14 x 10 grids (14 lines, 10 syllables per line). English majors may note that 6 x 10 is the shape of a sestet, the last six lines of a sonnet. Traditionally, the sestet provides an answer to the question posed in the first eight lines of the poem called the "octave." It may then be ideal (and cleverly meaningful) to pack the octave and sestet of our sonnets separately. Brad thinks below out loud about what this packing will entail. For one thing, most pieces will have to appear more than once (at least once in the sestet, then most or all will appear again in the octave, a few two or three times more). It would be most elegant to pack the octave with as many different shapes as will fit.
 
     
 ### Create New Puzzles
