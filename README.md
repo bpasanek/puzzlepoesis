@@ -4,7 +4,7 @@ This is the main git for UVa's Puzzle Poetry group. A proper index web page can 
 This repository will eventually house code for solving poetry puzzles (pentominoes and other) and related puzzle-poem games. Currently this readme file narrowly addresses a project involving Shakespeare's "procreation" sonnets (Sonnets 1 to 17). 
 
 ### The Puzzle Solver: Overview
-Pentomino puzzles can be solved computationally. Katherine Holcomb has adapted and uploaded C++ code that leverages 4 different puzzle solving algorithms (DLX, 2. MCH, EMCH, de Bruijn). Unpack the tarball polycube.tgz for code, modules, and makefiles.
+Pentomino puzzles can be solved computationally. Katherine Holcomb has adapted and uploaded C++ code that leverages 4 different puzzle-solving algorithms (DLX, 2. MCH, EMCH, de Bruijn). Unpack the tarball polycube.tgz for code, modules, and makefiles.
 
 Katherine includes the following instructions:
 1. module load gcc/4.8.2  -- it *will not* link with the default 5.4.0 because boost was built with 4.8.2
@@ -14,9 +14,9 @@ Katherine includes the following instructions:
 
 One of our first jobs is to rewrite this code to solve sonnet-shaped puzzles. 
 
-In the case of sonnets, we have 14 x 10 grids (14 lines, 10 syllables per line). In one canonical pentomino puzzle, the 12 pentomino pieces are packed into a 6 x 10 grid. This puzzle has been solved computationally: there are 2339 ways to fit 12 pentominoes into a 6 x 10 grid. English majors will note that 6x10 is the shape of a sestet (the last six lines of a sonnet). It may then be ideal to pack the octave and sestet of our sonnets separately. Brad thinks below out loud about what packing will entail. For one thing, pieces will have to appear more than once (at least once in the sestet, then most or all will appear again in the octave). Again, it would be nice to use as many different shapes as will fit to pack the octave.
+In the case of sonnets, we have 14 x 10 grids (14 lines, 10 syllables per line). In one canonical pentomino puzzle, the 12 pentomino pieces are packed into a 6 x 10 grid. This 6 x 10 puzzle has been solved computationally: there are 2339 ways to fit 12 pentominoes into a 6 x 10 grid. English majors will note that 6x10 is the shape of a sestet, the last six lines of a sonnet. Traditionally, the sestet provides an answer to the question posed in the first eight lines of the poem called the "octave." It may then be ideal (cleverly meaningiful) to pack the octave and sestet of our sonnets separately. Brad thinks below out loud about what packing will entail. For one thing, most pieces will have to appear more than once (at least once in the sestet, then most or all will appear again in the octave). Again, it would be nice to use as many different shapes as will fit to pack the octave.
 
-For reference, the pentominoes appear below labeled:
+For reference, the pentominoes appear below, labeled alphabetically:
 
 ![12 Pentominoes](/images/pentominoes.jpg)
     
@@ -42,7 +42,9 @@ An empty sonnet (14 x 10 grid):
         . . . . . . . . . .
         ~L
   
-Again, we are treating poems as frames into which words are packed (as in a packing puzzle). But note, our solutions cannot divide words, which means there are constraints (represented below with question marks and hyphens) that the current modified pentomino solver has not yet been programmed to respect.
+Again, we are treating poems as frames into which words are packed (a so-called packing puzzle). For the purposes of solving a sonnet, the words in the poem are assigned to pentomino shapes. A puzzle is solved when a set of 28 pentominoes have been packed into the frame, so that each the word in the poem is associated with a placed pentomino piece. In fact, a packed pentomino piece will gather at least one five syllable word--the piece "I" is the right shape to do so--or at most five one-syllable words. 
+
+Note, our solutions cannot divide words, which means there are constraints (represented below with question marks and hyphens) that our current modified pentomino solver has not yet been programmed to respect.
   
   Sonnet 2:
   
