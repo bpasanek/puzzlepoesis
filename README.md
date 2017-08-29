@@ -1,5 +1,5 @@
 # puzzlepoesis
-This is the main git for UVa's Puzzle Poetry group. This repository will house code for solving poetry puzzles (pentominoes and other).
+This is the main git for UVa's Puzzle Poetry group. This repository will house code for solving poetry puzzles (pentominoes and other). A proper index web page can be visited here:
 
 ### The Puzzle Solver: Overview
 Katherine Holcomb has adapted and uploaded C++ code that leverages 4 different puzzle solving algorithms (DLX, 2. MCH, EMCH, de Bruijn). Unpack the tarball polycube.tgz for code, modules, and makefiles.
@@ -9,6 +9,8 @@ Katherine includes the following instructions:
 2. module load boost (optional since I put full paths into the makefile, but will be required to run it to set LD_LIBRARY_PATH)
 3. cd src
 4. make
+
+One of our first jobs is to rewrite this code to solve sonnet-shaped puzzles. Below Brad thinks out loud about what that will entail.
     
 ### Create New Puzzles
 To create a new puzzle...
@@ -32,7 +34,11 @@ An empty sonnet (14 x 10 grid):
         . . . . . . . . . .
         ~L
   
-  But note, our solutions should not divide words, which means there are constraints (represented below with question marks and hyphens).
+We are treating poems as frames into which words are packed (as in a packing puzzle). But note, our solutions cannot divide words, which means there are constraints (represented below with question marks and hyphens) that the current modified pentomino solver has not yet been programmed to respect.
+  
+How to rewrite the C code? A good question! These positions in the grid should, Brad think, be filled first in the revised walk-back routine. That is, the first pentominoes should be placed over these squares in such a way that no piece covers only part of a poem position marked with a ?-?, ?-?-?, etc. Performance might be optimized if the partially packed puzzle is then checked for areas that won't fit a pentomino. Alternately, brute packing of shapes can continues until the solver fails and has to back up and start again.
+
+It may well be that there are sonnets that do not have solutions.
   
   Sonnet 2:
   
