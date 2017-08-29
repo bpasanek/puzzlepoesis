@@ -17,6 +17,7 @@ One of our first jobs is to rewrite this code to solve sonnet-shaped puzzles.
 In the case of sonnets, we have 14 x 10 grids (14 lines, 10 syllables per line). In one canonical pentomino puzzle, the 12 pentomino pieces are packed into a 6 x 10 grid. This puzzle has been solved computationally: there are 2339 ways to fit 12 pentominoes into a 6 x 10 grid. English majors will note that 6x10 is the shape of a sestet (the last six lines of a sonnet). It may then be ideal to pack the octave and sestet of our sonnets separately. Brad thinks below out loud about what packing will entail. For one thing, pieces will have to appear more than once (at least once in the sestet, then most or all will appear again in the octave). Again, it would be nice to use as many different shapes as will fit to pack the octave.
 
 For reference, the pentominoes appear below labeled:
+
 ![12 Pentominoes](/images/pentominoes.jpg)
     
 ### Create New Puzzles
