@@ -1,7 +1,5 @@
 ![Puzzle Poetry](/images/PP-logo.jpg)
 
-# Puzzle Poesis
-
 This is the home of UVa's Puzzle Poetry group.
 
 ### The Increase Puzzle Project
