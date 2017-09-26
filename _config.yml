@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 collections:
   puzzlepoems:
     output: true
-    permalink: /:puzzlepoems/:name
+    #permalink: /:puzzlepoems/:name
