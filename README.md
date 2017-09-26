@@ -96,7 +96,7 @@ How to rewrite the C code? A good question! The hyphenated positions in the grid
 
 Each of the 17 sonnets has a different set of constraints on pentomino placement and word-division. It may well be that there are sonnets that do not have solutions.
 
-An extra headache: 7 sonnets (sonnets 3, 8, 9, 10, 11, 15, 17) have lines in them that have more than 11 syllables. We'll need to adjust these lines by hand (eliding syllables or crowding them) before pursuing scripted solutions.
+An extra headache: 7 sonnets (sonnets 3, 8, 9, 10, 11, 15, 17) have lines in them that have more than ten syllables. We'll need to adjust these lines by hand (eliding syllables or crowding them) before pursuing scripted solutions.
 
 ### Resources
 Discussion of pentomino puzzle solving at
