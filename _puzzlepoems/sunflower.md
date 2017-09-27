@@ -2,7 +2,7 @@
 title: "Blake's 'Ah! Sun-flower'"
 layout: default
 designer: "Brad Pasanek"
-maker: "Brad Pasanek","Neal Curtis"
+maker: "Brad Pasanek, Neal Curtis"
 writeup: "Brad Pasanek"
 ---
 # Blake's "Ah! Sun-flower"
