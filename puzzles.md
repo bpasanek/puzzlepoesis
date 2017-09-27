@@ -4,6 +4,6 @@ title: Puzzles
 ---
 
 {% for puzzle in site.puzzlepoems %}
-  { puzzlepoem.title }}
-    {{ puzzlepoem.content }}
+  {{ puzzle.title }}
+    {{ puzzle.content }}
 {% endfor %}

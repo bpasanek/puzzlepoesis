@@ -6,4 +6,4 @@ collections:
 collections:
     puzzlepoems:
         output: true
-        #permalink: /:puzzlepoems/:name/
+        permalink: /:collection/:path/

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ![Puzzle Poetry](/images/PP-logo.jpg)
 
 This is the home of UVa's Puzzle Poetry working group.
