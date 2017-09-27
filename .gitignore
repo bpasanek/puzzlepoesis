@@ -1,3 +1,4 @@
 # This is a file that lists files for git to ignore
 
 _site/
+.sass-cache/*
