@@ -12,6 +12,6 @@ Over the summer Neal Curtis and Brad Pasanek began cutting poem puzzles out of p
 
 The poem is shown below, in pieces, its "lines unset."
 
-![Sonnet 16 in pieces](/images/sonnet16pieces.jpg)
+![Sonnet 16 in pieces]({{ baseurl }}/images/sonnet16pieces.jpg)
 
 [<< Back <<](..)
