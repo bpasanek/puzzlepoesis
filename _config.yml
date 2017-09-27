@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
 
 collections:
-  puzzlepoems:
-    output: true
-    #permalink: /:puzzlepoems/:name
+    - puzzlepoems
+
+collections:
+    puzzlepoems:
+        output: true
+        #permalink: /:puzzlepoems/:name/
