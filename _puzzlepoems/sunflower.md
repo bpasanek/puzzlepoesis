@@ -11,6 +11,6 @@ Brad Pasanek, weary of pentominoes, envisioned a poem built from hexagonal piece
 
 A protoype poem was cut from plywood, which flared and scorched when hit by the laser cutter. The surface of the puzzle took on irregular tints, stained by these Blakean flames of fire.
 
-![Ah! Sunflower](../images/sunflower.jpg)
+![Ah! Sunflower](./images/sunflower.jpg)
 
 [<< Back <<](..)
