@@ -2,24 +2,24 @@
 9.1.2017
 
 ### In attendance
-Alison Booth\s
-Jordan Burke\s
-Jordan Buysse\s
-Helena Chung\s
-Neal Curtis\s
-Adam Friedgen\s
-Piers Gelly\s
-Landis Grenville\s
-David Hall\s
-Lauren Johnson\s
-Chelsea Li\s
-Jeremy Little\s
-Samuel Lemley\s
-Julianne McCabin\s
-Brad Pasanek\s
-Ana Rowan\s
-Tim Schott\s
-Indu Ohni\s
+Alison Booth  
+Jordan Burke  
+Jordan Buysse  
+Helena Chung  
+Neal Curtis  
+Adam Friedgen  
+Piers Gelly  
+Landis Grenville  
+David Hall  
+Lauren Johnson  
+Chelsea Li  
+Jeremy Little  
+Samuel Lemley  
+Julianne McCabin  
+Brad Pasanek  
+Ana Rowan  
+Tim Schott  
+Indu Ohni  
 Andie Waterman
 
 
