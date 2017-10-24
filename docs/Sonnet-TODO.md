@@ -12,11 +12,11 @@
 9.
 10.
 11.
-12.
+12. Julianne McCobin, Andie Waterman, and Madeline Zehnder have done by hand
 13.
 14.
 15.
-16.
+16. Neal Curtis has done by hand
 17.
 
 ### Computationally
@@ -34,7 +34,7 @@
 12. Sestet identified and solved
 13.
 14.
-15.
+15. Sestet identified and solved
 16.
 17.
 
@@ -54,7 +54,7 @@
 13.
 14.
 15.
-16.
+16. Neal Curtis has created an .ai file
 17.
 
 ### Material versions
@@ -73,5 +73,5 @@
 13.
 14.
 15.
-16.
+16. Neal Curtis has cut a sonnet from orange acrylic. Our first poem. 
 17.
