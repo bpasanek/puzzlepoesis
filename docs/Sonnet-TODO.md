@@ -2,6 +2,13 @@
 
 The lists below record progress towards a complete puzzle set. 
 
+Under the first heading are sonnets plotted on graph paper and piece-ified by hand. These are all protoypes. It is hoped that we might solve these again algorithmically, leveraging polyomino-solving software to find the "best" solutions that employ the greatest variety of pentominos. Such is the mandate of _increase_. 
+
+A 140-square grid will hold 28 pieces, which means in an elegant, constrained solution each piece can be used at least twice, with 4 pieces used 3 times. 
+
+Currently under the second heading are the three sonnets identified as sestet-solvable--that is, these are the three sonnets into which all 12 pentomino pieces can be fitted to the sestet.
+
+We have complete Illustrator files for sonnets 12 and 16; neither of which is fully constrained solutions (each piece used twice, with 4 pieces used three times). 
 
 ### By Hand
 1. Brad Pasanek has done by hand
