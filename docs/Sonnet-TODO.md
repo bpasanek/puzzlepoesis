@@ -1,4 +1,7 @@
-## List of Sonnets
+## List of Increase Sonnets
+
+The lists below record progress towards a complete puzzle set. 
+
 
 ### By Hand
 1. Brad Pasanek has done by hand
@@ -63,15 +66,15 @@
 3.
 4.
 5.
-6.
+6. Sestet cut from clear acrylic
 7.
 8.
 9.
 10.
 11.
-12.
+12. Sestet cut from clear acrylic
 13.
 14.
-15.
-16. Neal Curtis has cut a sonnet from orange acrylic. Our first poem. 
+15. Sestet cut from clear acrylic
+16. Neal Curtis has cut a sonnet from orange acrylic. Our first complete puzzle poem. 
 17.
