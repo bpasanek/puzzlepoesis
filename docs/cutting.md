@@ -15,7 +15,9 @@ http://www.arch.virginia.edu/FabLab_Scheduler/index.cgi?month=10&monday_day=30&y
 Sestet(s) for Main Event (We already cut one, last time)
 
 
-#### Monday: 2 Hour Shift - 10/30  
+#### Monday: 2 Hour Shifts (from 3PM on) - 10/30  
+BOOKED:  M300 is reserved from 15:00 to 16:30, X-660 is reserved 1500 to 18:30
+Andie and Sam to come in at (waged): 
 1. Sonnet 12, full sonnet, copy 1
 2. Sonnet 12, full sonnet, copy 2
 3. Sonnet 12, full sonnet, copy 3
