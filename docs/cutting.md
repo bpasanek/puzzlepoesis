@@ -4,14 +4,14 @@ Neal and Brad use the sign up sheet here to reserve time on the cutters (Note, l
 http://www.arch.virginia.edu/FabLab_Scheduler/index.cgi?month=10&monday_day=30&year=2017&room=Laser_M-300
 
 #### Sunday: 2 Hour Shift - 10/29  
-1. ~~Sonnet 12, sestet, copy 1~~
-2. ~~Sonnet 12, sestet, copy 2~~
+1. ~~Sonnet 12, sestet, copy 1~~ (green)
+2. ~~Sonnet 12, sestet, copy 2~~ (green)
 3. Sonnet 12, sestet, copy 3
 4. Sonnet 12, sestet, copy  4
 
 #### Sunday: Second Hour Shift - 10/29  
-1. ~~Sonnet 6, sestet copy 1~~
-2. ~~Sonnet 15, sestet copy 1~~
+1. ~~Sonnet 6, sestet copy 1~~ (green)
+2. ~~Sonnet 15, sestet copy 1~~(green)  
 Sestet(s) for Main Event (We already cut one, last time)
 
 
