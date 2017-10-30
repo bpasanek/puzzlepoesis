@@ -6,8 +6,8 @@ http://www.arch.virginia.edu/FabLab_Scheduler/index.cgi?month=10&monday_day=30&y
 #### Sunday: 2 Hour Shift - 10/29  
 1. ~~Sonnet 12, sestet, copy 1~~ (green plexi)
 2. ~~Sonnet 12, sestet, copy 2~~ (green)
-3. Sonnet 12, sestet, copy 3
-4. Sonnet 12, sestet, copy  4
+3. Sonnet 12, sestet, copy 3 -- DIDN'T HAPPEN
+4. Sonnet 12, sestet, copy  4 -- DIDN'T HAPPEN
 
 #### Sunday: Second Hour Shift - 10/29  
 1. ~~Sonnet 6, sestet copy 1~~ (green)
@@ -22,6 +22,12 @@ Andie and Sam to come in (this will be paid labor):
 3. ~~Sonnet 12, full sonnet, copy 3~~ (red)
 4. Sonnet 12, full sonnet, copy 4
 5. Sonnet 12, full sonnet, copy 5
+6. Sonnet 12, full sonnet, copy 6
+
+3. Sonnet 12, sestet, copy 3
+4. Sonnet 12, sestet, copy 4
+5. Sonnet 12, sestet, copy 5
+6. Sonnet 12, sestet, copy 6
 
 #### Tuesday: 2 Hour Shift - 10/31  
 Any extra work? 
