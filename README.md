@@ -5,7 +5,7 @@ This is the main git for UVa's Puzzle Poetry group.
 This repository will eventually house code for solving poetry puzzles (polyomino puzzles) and related puzzle-poem games. Currently this readme file narrowly addresses a project involving Shakespeare's "procreation" sonnets (Sonnets 1 to 17). 
 
 ### The Puzzle Project
-The group is working to create convert a sequence of Shakespeare's sonnets into pentomino puzzles. These will be laser cut from wood, acrylic, and other materials, and then assembled as an art-object titled _Increase_. Preparing the the puzzles requires finding ways to pack pentomino shapes into a sonnet-shaped frame. Working by hand, we've carved up several sonnets into a set of pentomino shapes but we hope to do better, finding all possible solutions to our sequence of sonnets, that is, all the ways that a given sonnet can be cut up into pentomino shapes.
+The group is working to convert a sequence of Shakespeare's sonnets into pentomino puzzles. These will be laser cut from wood, acrylic, and other materials, and then assembled as an art-object titled _Increase_. Preparing the the puzzles requires finding ways to pack pentomino shapes into a sonnet-shaped frame. Working by hand, we've carved up several sonnets into a set of pentomino shapes but we hope to do better, finding all possible solutions to our sequence of sonnets, that is, all the ways that a given sonnet can be cut up into pentomino shapes.
 
 For reference, the complete set of pentominoes appears below with the pieces labeled alphabetically:
 
