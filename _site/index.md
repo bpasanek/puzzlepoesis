@@ -10,3 +10,14 @@ Our puzzlings continue apace. Meanwhile, we have prototypes to share:
 2. ["Ah! Sun-Flower,"](./puzzlepoems/sunflower.html) Brad Pasanek
 
 More puzzle projects forthcoming...
+
+#### Core Participants
+<ul>
+{% for people in site.people %}
+<li>
+    <a href="people/{{people.lastname}}-{{people.firstname}}.html">{{ people.firstname }} {{ people.lastname }}</a>, 
+    {% for dept in people.affiliations %}
+        {{ people.affiliations.dept }}
+    {% endfor %}</li>
+{% endfor %}
+</ul>

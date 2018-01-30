@@ -5,3 +5,10 @@ collections:
     - people
 
 baseurl: /puzzlepoesis
+
+collections:
+    puzzlepoems:
+        output: true
+    people:
+        output: true
+        #permalink: /:puzzlepoems/:name/
