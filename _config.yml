@@ -2,10 +2,6 @@ theme: jekyll-theme-minimal
 
 collections:
     - puzzlepoems
+    - people
 
 baseurl: /puzzlepoesis
-
-collections:
-    puzzlepoems:
-        output: true
-        #permalink: /:puzzlepoems/:name/
