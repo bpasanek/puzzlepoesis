@@ -35,3 +35,5 @@ More puzzle projects forthcoming...
     {% endfor %}</li>
 {% endfor %}
 </ul>
+
+{% include footer.html %}
