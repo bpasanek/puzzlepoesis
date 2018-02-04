@@ -13,8 +13,8 @@ We have complete Illustrator files for sonnets 12 and 16; neither of which is fu
 ### By Hand
 1. Brad Pasanek has done by hand
 2. Brad Pasanek has done by hand
-3.
-4.
+3. 
+4. 
 5. Abigail Johnson has done by hand
 6.
 7.
