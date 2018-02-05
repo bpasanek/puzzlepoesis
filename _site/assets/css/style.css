@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 /** 1. Change the default font family in all browsers (opinionated). 2. Prevent adjustments of font size after orientation changes in IE and iOS. */
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
@@ -2740,3 +2741,56 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 .highlight .w { color: #bbbbbb; }
 
 .highlight { background-color: #f8f8f8; }
+
+nav { float: right; }
+nav ul { list-style: none; margin: 0; padding: 0; }
+nav ul li { float: left; position: relative; }
+nav ul li a { display: block; padding: 0 20px; line-height: 70px; background: #262626; color: #ffffff; text-decoration: none; }
+nav ul li a:hover { background: #2581DC; color: #ffffff; }
+nav ul li a:not(:only-child):after { padding-left: 4px; content: ' ▾'; }
+nav ul li ul li { min-width: 190px; }
+nav ul li ul li a { padding: 15px; line-height: 20px; z-index: 1; }
+
+.nav-dropdown { position: absolute; display: none; z-index: 1; box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15); }
+
+.nav-mobile { display: none; position: absolute; top: 0; right: 0; background: #262626; height: 70px; width: 70px; }
+
+#nav-toggle { position: absolute; left: 18px; top: 22px; cursor: pointer; padding: 10px 35px 16px 0px; }
+#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after { cursor: pointer; border-radius: 1px; height: 5px; width: 35px; background: #ffffff; position: absolute; display: block; content: ''; transition: all 300ms ease-in-out; }
+#nav-toggle span:before { top: -10px; }
+#nav-toggle span:after { bottom: -10px; }
+#nav-toggle.active span { background-color: transparent; }
+#nav-toggle.active span:before, #nav-toggle.active span:after { top: 0; }
+#nav-toggle.active span:before { transform: rotate(45deg); }
+#nav-toggle.active span:after { transform: rotate(-45deg); }
+
+@media only screen and (max-width: 800px) { .nav-mobile { display: block; }
+  nav { width: 100%; padding: 70px 0 15px; }
+  nav ul { display: none; }
+  nav ul li { float: none; }
+  nav ul li a { padding: 15px; line-height: 20px; }
+  nav ul li ul li a { padding-left: 30px; }
+  .nav-dropdown { position: static; } }
+@media screen and (min-width: 800px) { .nav-list { display: block !important; } }
+.navigation { height: 70px; background: #262626; }
+
+.nav-container { max-width: 1000px; margin: 0 auto; }
+
+.brand { position: absolute; padding-left: 20px; float: left; line-height: 70px; text-transform: uppercase; font-size: 1.4em; }
+.brand a, .brand a:visited { color: #ffffff; text-decoration: none; }
+
+/* Add a black background color to the top navigation */
+.topnav { background-color: #00a0e6; overflow: hidden; }
+
+/* Style the links inside the navigation bar */
+.topnav a { float: left; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; }
+
+/* Change the color of links on hover */
+.topnav a:hover { background-color: #ddd; color: black; }
+
+/* Add a color to the active/current link */
+.topnav a.active { background-color: #8ccaf2; color: white; }
+
+#rcorners1 { border-radius: 25px; background: #73AD21; padding: 20px; width: 200px; height: 150px; }
+
+.center-image { margin: 0 auto; display: block; }

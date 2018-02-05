@@ -1,4 +1,9 @@
-![Puzzle Poetry](/images/PP-logo.jpg)
+{% include header.html %}
+
+
+![Puzzle Poetry](/images/PP-logo.jpg){: .center-image }
+
+
 
 This is the home of UVa's Puzzle Poetry working group.
 
