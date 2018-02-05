@@ -1,10 +1,9 @@
 {% include header.html %}
 
 
+<br>
 ![Puzzle Poetry](/images/PP-logo.jpg){: .center-image }
-
-
-
+<br>
 This is the home of UVa's Puzzle Poetry working group.
 
 ### The Increase Puzzle Project
