@@ -30,6 +30,8 @@ Our puzzlings continue apace. Meanwhile, we have prototypes to share:
 
 More puzzle projects forthcoming...
 
+<!--
+
 #### Core Participants
 <ul>
 {% for people in site.people %}
@@ -40,5 +42,5 @@ More puzzle projects forthcoming...
     {% endfor %}</li>
 {% endfor %}
 </ul>
-
+-->
 {% include footer.html %}
