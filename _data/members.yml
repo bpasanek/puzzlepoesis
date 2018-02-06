@@ -1,0 +1,129 @@
+- name: Vanessa Braganza
+  firstname: Vanessa
+  lastname: Braganza
+  signet: vb
+  participation: Core
+  affiliations:  
+      dept: English [alumna]
+  roles: 
+      - role: Puzzle Design
+
+- name: Neal Curtis
+  firstname: Neal
+  lastname: Curtis
+  signet: nc
+  participation: Core
+  affiliations:
+      dept: English
+  roles: 
+      - role: Puzzle Design
+      - role: Author
+
+- name: David Hall
+  firstname: David
+  lastname: Hall
+  signet: dh
+  participation: Core
+  affiliations: 
+      dept: English
+      dept: Computer Science
+  roles: 
+      - role: Puzzle Design
+      - role: Game Design
+
+- name: Jeremy Little
+  firstname: Jeremy
+  lastname: Little
+  signet: jl
+  participation: Core
+  affiliations:
+      dept: English
+      dept: Computer Science
+  roles: 
+      - role: Puzzle Design
+      - role: Game Design
+
+- name: Abigail Johnson
+  firstname: Abigail
+  lastname: Johnson
+  signet: aj
+  participation: Core
+  affiliations:
+      dept: English
+  roles: 
+      - role: Puzzle Design
+
+- name: Lauren Johnson
+  firstname: Lauren
+  lastname: Johnson
+  signet: lj
+  participation: Core
+  affiliations:
+      dept: English
+      dept: Art History
+  roles: 
+      - role: Puzzle Design
+      - role: Web Design
+
+- name: Julianne McCobin
+  firstname: Julianne
+  lastname: McCobin
+  signet: jm
+  participation: Core
+  affiliations:
+      dept: English
+  roles: 
+      - role: Puzzle Design
+
+- name: Brad Pasanek
+  firstname: Brad
+  lastname: Pasanek
+  signet: bp
+  participation: Core
+  affiliations:
+      dept: English
+  roles: 
+      - role: Puzzle Design
+      - role: Web Design
+
+- name: Tim Schott
+  firstname: Tim
+  lastname: Schott
+  signet: ts
+  participation: Core
+  affiliations:
+      dept: English
+      dept: Computer Science
+  roles: 
+      - role: Puzzle Design
+      - role: Web Design
+
+- name: Andie Waterman
+  firstname: Andie
+  lastname: Waterman
+  signet: aw
+  participation: Core
+  affiliations:
+      dept: English
+  roles: 
+      - role: Puzzle Design
+
+- name: Madeline Zehnder
+  firstname: Madeline
+  lastname: Zehnder
+  signet: mz
+  participation: Core
+  affiliations:
+      dept: English
+  roles: 
+      - role: Puzzle Design
+
+- name:
+  firstname:
+  lastname:
+  signet:
+  participation: Core
+  affiliations:
+      dept:
+  roles: 
+      - role:
