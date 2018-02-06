@@ -9,14 +9,14 @@ A hearty band of Wahoos, who span the gamut of age, background and academic affi
 #### Core Participants 
 
 <ul>
-{% for people in site.people %}
+{% for member in site.data.members %}
 <li>
-    <a href="people/{{people.lastname}}-{{people.firstname}}.html">{{ people.firstname }} {{ people.lastname }}</a>, 
-    	{% if people.lastname == 'Johnson' and people.firstname == 'Lauren' %}
+    {{ member.firstname }} {{ member.lastname }}, 
+    	{% if member.lastname == "Johnson" and member.firstname == "Lauren" %}
     		![LJ_picture](/images/LJ_Lauren.png)
     	{% endif %}
-    {% for dept in people.affiliations %}
-        {{ people.affiliations.dept }}
+    {% for dept in member.affiliations %}
+        {{ member.affiliations.dept }}
     {% endfor %}</li>
 {% endfor %}
 </ul>
