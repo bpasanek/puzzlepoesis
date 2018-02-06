@@ -1,9 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  {% include header.html %}
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
+{% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  
+{% include header.html %}
+<h1>{{ site.title | default: site.github.repository_name }}</h1>
+<p>{{ site.description | default: site.github.project_tagline }}</p>
   <body>
+      
     <div class="container">
       <header class="masthead">
         <h3 class="masthead-title">
@@ -26,4 +42,4 @@
 </html>
 
 <!-- Roughing in this structure from https://github.com/mdo/jekyll-example a site related to a SASS tutorial 
-at http://markdotto.com/2014/09/25/sass-and-jekyll/>
+at http://markdotto.com/2014/09/25/sass-and-jekyll/ and mixed and matched with minimal them (a gem-bundled theme that I got at witht the following command: open $(bundle show minimal). NOTE, not working right with current CSS!)>

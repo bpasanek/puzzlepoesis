@@ -6,9 +6,15 @@ collections:
 
 baseurl: /puzzlepoesis
 
+sass:
+    sass_dir: _sass
+
 collections:
     puzzlepoems:
         output: true
     people:
         output: true
         #permalink: /:puzzlepoems/:name/
+
+plugins:
+  - jekyll-seo-tag
