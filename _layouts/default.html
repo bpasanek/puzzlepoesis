@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include header.html %}
+
+  <body>
+    <div class="container">
+      <header class="masthead">
+        <h3 class="masthead-title">
+          <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
+        </h3>
+        <small>{{ site.tagline }}</small>
+      </header>
+
+      <hr>
+
+      {{ content }}
+
+      <hr>
+
+      <footer>
+          {% include footer.html %}
+      </footer>
+    </div>
+  </body>
+</html>
+
+<!-- Roughing in this structure from https://github.com/mdo/jekyll-example a site related to a SASS tutorial 
+at http://markdotto.com/2014/09/25/sass-and-jekyll/>

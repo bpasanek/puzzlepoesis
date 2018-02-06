@@ -1,6 +1,3 @@
-{% include header.html %}
-
-
 <br>
 ![Puzzle Poetry](/images/PP-logo.jpg){: .center-image }
 <br>
@@ -42,4 +39,3 @@ More puzzle projects forthcoming...
 {% endfor %}
 </ul>
 -->
-{% include footer.html %}

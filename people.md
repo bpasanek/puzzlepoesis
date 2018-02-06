@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: default
+---
 
 # People
 
@@ -18,5 +20,3 @@ A hearty band of Wahoos, who span the gamut of age, background and academic affi
     {% endfor %}</li>
 {% endfor %}
 </ul>
-
-{% include footer.html %}
