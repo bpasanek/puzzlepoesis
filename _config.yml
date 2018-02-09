@@ -6,8 +6,8 @@ collections:
 
 baseurl: /puzzlepoesis
 
-sass:
-    sass_dir: _sass
+#sass:
+ #   sass_dir: _sass
 
 collections:
     puzzlepoems:
