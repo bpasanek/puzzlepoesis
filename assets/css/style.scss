@@ -150,15 +150,29 @@ nav {
 
 
 .topnav {
-    background-color: rgb(0, 160, 230); overflow: hidden;
+    background-color: #ffffff; overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
+
+
+.topnav a {
+    float: left; color: #D1D0D0; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 15px;
+}
+
+/*WAS
 .topnav a {
     float: left; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px;
 }
+*/
 
-/* Change the color of links on hover */
+/* Change the color of links on hover 
+WAS
+
+.topnav a:hover {
+    background-color: #ddd; color: black;
+}
+*/
 .topnav a:hover {
     background-color: #ddd; color: black;
 }
@@ -167,15 +181,18 @@ nav {
 .ppentomino {
   width: 75px;
   height:50px;
-  background: red;
+  background: #A9A9EA; /*Lauren's blue purple*/
   -webkit-clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
   clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
 }
 
+.w3-btn {width: 100px;
+    
+}
 .upentomino {
   width: 75px;
   height:50px;
-  background: blue;
+  background: #DABC99; /*Lauren's orangey color*/
   -webkit-clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0);
   clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0);
   
@@ -184,7 +201,7 @@ nav {
 .xpentomino {
     width: 75px;
     height:75px;
-    background: purple;
+    background: #8ACCCA; /*Lauren's teal*/
     -webkit-clip-path: polygon(0 33%, 33% 33%, 33% 0, 66% 0, 66% 33%, 100% 33%, 100% 66%, 66% 66%, 66% 100%, 33% 100%, 33% 66%, 0 66%);
     clip-path: polygon(0 33%, 33% 33%, 33% 0, 66% 0, 66% 33%, 100% 33%, 100% 66%, 66% 66%, 66% 100%, 33% 100%, 33% 66%, 0 66%);
 }
@@ -192,7 +209,7 @@ nav {
 .ypentomino {
     width: 100px;
     height:50px;
-    background: green;
+    background: #DE9ABB; /*Lauren's pink*/
     -webkit-clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%);
     clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%);
 }
@@ -200,7 +217,7 @@ nav {
 .zpentomino{
     width: 75px;
     height:75px;
-    background: yellow;
+    background: #BDDB9C; /*Lauren's green*/
     -webkit-clip-path: polygon(33% 0, 33% 33%, 100% 33%, 100% 100%, 66% 100%, 66% 66%, 0 66%, 0 0);
     clip-path: polygon(33% 0, 33% 33%, 100% 33%, 100% 100%, 66% 100%, 66% 66%, 0 66%, 0 0);
 }

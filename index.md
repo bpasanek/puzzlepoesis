@@ -1,5 +1,9 @@
+<h1>{{ site.title | default: site.github.repository_name }}</h1>
+<p>{{ site.description | default: site.github.project_tagline }}</p>
+
 <br>
-![Puzzle Poetry](/images/PP-logo.jpg){: .center-image }
+![Puzzle Poetry](/images/tsien-puzzle.jpg){: .center-image }
+<!--Get a better white-on-white acrylic/cloth image -->
 <br>
 This is the home of UVa's Puzzle Poetry working group.
 
