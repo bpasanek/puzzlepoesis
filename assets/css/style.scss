@@ -163,6 +163,30 @@ nav {
     background-color: #ddd; color: black;
 }
 
+.ppentomino {
+  width: 50px;
+  height:75px;
+  background: red;
+  -webkit-clip-path: polygon(50% 33%, 100% 33%, 100% 100%, 0 100%, 0 0, 50% 0);
+  clip-path: polygon(50% 33%, 100% 33%, 100% 100%, 0 100%, 0 0, 50% 0);
+}
+
+.upentomino {
+  width: 75px;
+  height:50px;
+  background: blue;
+  -webkit-clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0);
+  clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0);
+  
+}
+
+.ypentomino {
+    width: 100px;
+    height:50px;
+    background: green;
+    -webkit-clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%);
+    clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%);
+}
 /* Add a color to the active/current link 
 .active {
     background-color: rgb(140, 202, 242); color: white;

@@ -9,6 +9,9 @@ baseurl: /puzzlepoesis
 #sass:
  #   sass_dir: _sass
 
+scss:
+    scss_dir: _scss
+
 collections:
     puzzlepoems:
         output: true
