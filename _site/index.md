@@ -2,9 +2,16 @@
 <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 <br>
-![Puzzle Poetry](/images/tsien-puzzle.jpg){: .center-image }
-<!--Get a better white-on-white acrylic/cloth image -->
+![Puzzle Poetry](/images/PP-logo.jpg){: .center-image }
 <br>
+
+<!-- 
+Get a better white-on-white acrylic/cloth image
+
+	![Puzzle Poetry](/images/tsien-puzzle.jpg){: .center-image }
+
+noted! but for now i think this error is making the site have a weird state so i'm gonna throw the logo back in. 
+-->
 This is the home of UVa's Puzzle Poetry working group.
 
 

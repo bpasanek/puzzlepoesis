@@ -7,7 +7,7 @@ $content-width: 1000px;
 $breakpoint: 800px;
 $nav-height: 70px;
 $nav-background: #ffffff; /*was 262626*/
-$nav-font-color: #ffffff;
+/*$nav-font-color: #0000fa;*/
 $link-hover-color: #2581DC;
 
 nav {
@@ -25,11 +25,11 @@ nav {
         padding-bottom: 20px;
         line-height: $nav-height;
         background: $nav-background;
-        color: $nav-font-color;
+       /*color: $nav-font-color;*/
         text-decoration: none;
         &:hover {
           background: $link-hover-color;
-          color: $nav-font-color;
+          /*color: $nav-font-color;*/
         }
         &:not(:only-child):after {
         padding-left: 4px;
@@ -65,45 +65,6 @@ nav {
   width: $nav-height;
 }
 
-#nav-toggle {
-  position: absolute;
-  left: 18px;
-  top: 22px;
-  cursor: pointer;
-  padding: 10px 35px 16px 20px;
-  span,
-  span:before,
-  span:after {
-    cursor: pointer;
-    border-radius: 1px;
-    height: 5px;
-    width: 35px;
-    background: $nav-font-color;
-    position: absolute;
-    display: block;
-    content: '';
-    transition: all 300ms ease-in-out;
-  }
-  span:before {
-    top: -10px;
-  }
-  span:after {
-    bottom: -10px;
-  }
-  &.active span {
-    background-color: transparent;
-    &:before,
-    &:after {
-      top: 0;
-    }
-    &:before {
-      transform: rotate(45deg);
-    }
-    &:after {
-      transform: rotate(-45deg);
-    }
-  }
-}
 
 @media only screen and (max-width: $breakpoint) {
   .nav-mobile {
@@ -157,8 +118,9 @@ nav {
 
 
 .topnav a {
-    float: left; color: #D1D0D0; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 15px;
+    float: left; color: #F5FFFA; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 15px;
 }
+/*this is the place to go to fool around with the text inside the nav bar*/
 
 /*WAS
 .topnav a {
@@ -181,6 +143,8 @@ WAS
 .ppentomino {
   width: 75px;
   height:50px;
+  padding: 21.5px;
+  padding-left: 2.5px;
   background: #A9A9EA; /*Lauren's blue purple*/
   -webkit-clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
   clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
@@ -192,6 +156,8 @@ WAS
 .upentomino {
   width: 75px;
   height:50px;
+  padding: 21.5px;
+  padding-left: 14px;
   background: #DABC99; /*Lauren's orangey color*/
   -webkit-clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0);
   clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0);
@@ -201,6 +167,8 @@ WAS
 .xpentomino {
     width: 75px;
     height:75px;
+    padding: 24.5px;
+    padding-left: 17px;
     background: #8ACCCA; /*Lauren's teal*/
     -webkit-clip-path: polygon(0 33%, 33% 33%, 33% 0, 66% 0, 66% 33%, 100% 33%, 100% 66%, 66% 66%, 66% 100%, 33% 100%, 33% 66%, 0 66%);
     clip-path: polygon(0 33%, 33% 33%, 33% 0, 66% 0, 66% 33%, 100% 33%, 100% 66%, 66% 66%, 66% 100%, 33% 100%, 33% 66%, 0 66%);
@@ -209,6 +177,8 @@ WAS
 .ypentomino {
     width: 100px;
     height:50px;
+    padding: 24.5px;
+    padding-left: 17px;
     background: #DE9ABB; /*Lauren's pink*/
     -webkit-clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%);
     clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%);
@@ -217,6 +187,8 @@ WAS
 .zpentomino{
     width: 75px;
     height:75px;
+    padding: 21.5px;
+    padding-left: 15px;
     background: #BDDB9C; /*Lauren's green*/
     -webkit-clip-path: polygon(33% 0, 33% 33%, 100% 33%, 100% 100%, 66% 100%, 66% 66%, 0 66%, 0 0);
     clip-path: polygon(33% 0, 33% 33%, 100% 33%, 100% 100%, 66% 100%, 66% 66%, 0 66%, 0 0);
