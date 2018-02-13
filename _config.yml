@@ -1,4 +1,4 @@
-#theme: jekyll-theme-minimal
+l#theme: jekyll-theme-minimal
 
 collections:
     - puzzlepoems
@@ -17,7 +17,17 @@ collections:
         output: true
     people:
         output: true
+    category:
+        output: true
         #permalink: /:puzzlepoems/:name/
 
 plugins:
   - jekyll-seo-tag
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
