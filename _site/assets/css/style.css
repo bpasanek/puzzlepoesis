@@ -2742,10 +2742,11 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 
 .highlight { background-color: #f8f8f8; }
 
+/*was 262626*/
 nav { float: right; padding-bottom: 20px; }
 nav ul { list-style: none; margin: 0; padding-bottom: 0px; }
 nav ul li { float: left; position: relative; }
-nav ul li a { display: block; padding-bottom: 20px; line-height: 70px; background: #262626; color: #ffffff; text-decoration: none; }
+nav ul li a { display: block; padding-bottom: 20px; line-height: 70px; background: #ffffff; color: #ffffff; text-decoration: none; }
 nav ul li a:hover { background: #2581DC; color: #ffffff; }
 nav ul li a:not(:only-child):after { padding-left: 4px; content: ' ▾'; }
 nav ul li ul li { min-width: 190px; }
@@ -2753,7 +2754,7 @@ nav ul li ul li a { padding: 15px; padding-bottom: 20px; line-height: 20px; z-in
 
 .nav-dropdown { position: absolute; display: none; z-index: 1; box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15); }
 
-.nav-mobile { display: none; position: absolute; top: 0; right: 0; background: #262626; height: 70px; width: 70px; }
+.nav-mobile { display: none; position: absolute; top: 0; right: 0; background: #ffffff; height: 70px; width: 70px; }
 
 #nav-toggle { position: absolute; left: 18px; top: 22px; cursor: pointer; padding: 10px 35px 16px 20px; }
 #nav-toggle span, #nav-toggle span:before, #nav-toggle span:after { cursor: pointer; border-radius: 1px; height: 5px; width: 35px; background: #ffffff; position: absolute; display: block; content: ''; transition: all 300ms ease-in-out; }
@@ -2772,7 +2773,7 @@ nav ul li ul li a { padding: 15px; padding-bottom: 20px; line-height: 20px; z-in
   nav ul li ul li a { padding-left: 30px; }
   .nav-dropdown { position: static; } }
 @media screen and (min-width: 800px) { .nav-list { display: block !important; } }
-.navigation { height: 70px; background: #262626; }
+.navigation { height: 70px; background: #ffffff; }
 
 .nav-container { max-width: 1000px; margin: 0 auto; }
 
@@ -2784,11 +2785,16 @@ nav ul li ul li a { padding: 15px; padding-bottom: 20px; line-height: 20px; z-in
 /* Change the color of links on hover */
 .topnav a:hover { background-color: #ddd; color: black; }
 
-.ppentomino { width: 50px; height: 75px; background: red; -webkit-clip-path: polygon(50% 33%, 100% 33%, 100% 100%, 0 100%, 0 0, 50% 0); clip-path: polygon(50% 33%, 100% 33%, 100% 100%, 0 100%, 0 0, 50% 0); }
+/*Pentominos made with http://bennettfeely.com/clippy/*/
+.ppentomino { width: 75px; height: 50px; background: red; -webkit-clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0); clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0); }
 
 .upentomino { width: 75px; height: 50px; background: blue; -webkit-clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0); clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0); }
 
+.xpentomino { width: 75px; height: 75px; background: purple; -webkit-clip-path: polygon(0 33%, 33% 33%, 33% 0, 66% 0, 66% 33%, 100% 33%, 100% 66%, 66% 66%, 66% 100%, 33% 100%, 33% 66%, 0 66%); clip-path: polygon(0 33%, 33% 33%, 33% 0, 66% 0, 66% 33%, 100% 33%, 100% 66%, 66% 66%, 66% 100%, 33% 100%, 33% 66%, 0 66%); }
+
 .ypentomino { width: 100px; height: 50px; background: green; -webkit-clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%); clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%); }
+
+.zpentomino { width: 75px; height: 75px; background: yellow; -webkit-clip-path: polygon(33% 0, 33% 33%, 100% 33%, 100% 100%, 66% 100%, 66% 66%, 0 66%, 0 0); clip-path: polygon(33% 0, 33% 33%, 100% 33%, 100% 100%, 66% 100%, 66% 66%, 0 66%, 0 0); }
 
 /* Add a color to the active/current link 
 .active { background-color: rgb(140, 202, 242); color: white;
