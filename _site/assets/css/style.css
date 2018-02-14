@@ -2787,6 +2787,8 @@ WAS
 */
 .topnav a:hover { background-color: #ddd; color: black; }
 
+h4 + li { margin-top: -15px; }
+
 /*Pentominos made with http://bennettfeely.com/clippy/*/
 .ppentomino { width: 75px; height: 50px; padding: 21.5px; padding-left: 2.5px; background: #A9A9EA; /*Lauren's blue purple*/ -webkit-clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0); clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0); }
 
