@@ -1,6 +1,7 @@
 ---
 firstname: "Lauren"
 lastname: "Johnson"
+layout: default
 signet: "lj"
 participant: "Core"
 affiliations: 
