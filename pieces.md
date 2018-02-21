@@ -4,7 +4,7 @@ layout: default
 
 # Pieces
 
-Every time we create a puzzle, we add critical commentary to it. Writings typically flesh out relevant aspects of the design process and the interplay between a poem and its physical manifestation. 
+As we create new puzzles, we generate critical commentary. These writings highlight relevant aspects of the design process, emphasizing the interplay between a poem and its physical manifestation. 
 
 Currently we are writing under three headings: "Computation," "Fabrication," and "Solving."
 
