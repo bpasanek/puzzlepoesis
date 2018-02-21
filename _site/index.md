@@ -2,37 +2,12 @@
 <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 <br>
-![Puzzle Poetry](/images/PP-logo.jpg){: .center-image }
+![Puzzle Poetry](./images/sestet-whiteonwhite.jpg)
 <br>
 
-<!-- 
-Get a better white-on-white acrylic/cloth image
+You have arrived at the home of UVa's Puzzle Poetry working group. Launched this fall by Neal Curtis and Brad Pasanek as an experimental and collaborative endeavor, we seek to treat poems as puzzles, isolate the substance of prosody, and apprehend shape as a medium. Ours is a motley and interdisciplinary collective that calls upon farflung University resources: laser cutters, 3D printers, cluster computing service units, art and architecture studios. We are makers, coders, and subformalists. We are interested in overcoming constraint.
 
-	![Puzzle Poetry](/images/tsien-puzzle.jpg){: .center-image }
-
-noted! but for now i think this error is making the site have a weird state so i'm gonna throw the logo back in. 
--->
-This is the home of UVa's Puzzle Poetry working group.
-
-
-<!--
-{% for post in site.posts %}
-<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} | {{post.author}}</a>
-{% endfor %}
-
-
-Our puzzlings continue apace. Meanwhile, we have prototypes to share: 
-{% for puzzle in site.puzzlepoems %}
-<a href="{{ site.baseurl }}{{ puzzle.url }}">{{ puzzle.title }} | {{puzzle.designer}}</a>
-{% endfor %}
-
--->
-
-<!--Our puzzlings continue apace. Meanwhile, we have prototypes to share:
-1. [Sonnet 16](./puzzlepoems/sonnet16.html), Neal Curtis
-2. ["Ah! Sun-Flower,"](./puzzlepoems/sunflower.html) Brad Pasanek -->
-
-More puzzle projects forthcoming...
+Several of our efforts are documented in these pages. More puzzle projects are forthcoming...
 
 <!--
 
