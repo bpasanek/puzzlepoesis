@@ -1,8 +1,10 @@
 ---
 layout: default
-author: Brad Pasanek
+author: Neal Curtis and Brad Pasanek
 title: False Solutions
-category: computation
+category: solving
 ---
 ### False Solutions
+
+
 

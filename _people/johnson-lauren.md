@@ -10,7 +10,6 @@ roles:
     - role: "Puzzle Design"
 ---
 
-I'm Lauren, dammit!
+Lauren Austen Johnson is undergraduate at U.Va. majoring in English and Archaeology and minoring in Astrophysics.
 
-[<< Back <<](..)
-
+[<< Back <<](../people.html)

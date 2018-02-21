@@ -10,7 +10,6 @@ roles:
     - role: "Puzzle Design"
 ---
 
-I'm Vanessa, dammit!
+Vanessa Braganza is an alumna of the U.Va. English department.
 
-[<< Back <<](..)
-
+[<< Back <<](../people.html)

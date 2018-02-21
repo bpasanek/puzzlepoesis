@@ -1,10 +1,20 @@
+- name: Jason Bennett
+  firstname: Jason
+  lastname: Bennett
+  signet: jb
+  participation: Core
+  affiliations:  
+      dept: Learning Design & Technology
+  roles: 
+      - role: Puzzle Design
+
 - name: Vanessa Braganza
   firstname: Vanessa
   lastname: Braganza
   signet: vb
   participation: Core
   affiliations:  
-      dept: English [alumna]
+      dept: English
   roles: 
       - role: Puzzle Design
 
@@ -117,13 +127,3 @@
       dept: English
   roles: 
       - role: Puzzle Design
-
-- name:
-  firstname:
-  lastname:
-  signet:
-  participation: Core
-  affiliations:
-      dept:
-  roles: 
-      - role:

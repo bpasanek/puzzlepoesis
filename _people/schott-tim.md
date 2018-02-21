@@ -13,9 +13,9 @@ roles:
     -role: "Programming"
 ---
 
-I'm Tim, dammit!
+Tim Schott is an undergraduate at U.Va. He is doublemajoring in English and Computer Science.
 
-[<< Back <<](..)
+[<< Back <<](../people.html)
 
 
 
