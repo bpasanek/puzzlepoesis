@@ -12,8 +12,7 @@ The Puzzle Poetry group is an emphatically cross-disciplinary one, convening poe
 <ul>
 	{% for member in site.data.members %}
 	<li>
-		{{site.baseurl}}
-		<a href = "{{site.baseurl}}/people/{{member.lastname}}-{{member.firstname}}.html">{{member.firstname}} {{member.lastname}}</a> | {{member.affiliations.dept}}
+		<a href = "{{site.baseurl}}/people/{{member.lastname | downcase}}-{{member.firstname | downcase}}.html">{{member.firstname}} {{member.lastname}}</a> | {{member.affiliations.dept}}
         </li>		
     {% endfor %}
 	
