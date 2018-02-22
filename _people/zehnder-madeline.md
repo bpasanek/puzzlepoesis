@@ -11,6 +11,6 @@ roles:
   - role: Author
 ---
 
-Madeline Zehnder is a graduate student in the English Department at U.Va.
+Madeline is a PhD student in the department of English. She is interested in early American literature, the Atlantic world, and aesthetics.
 
 [<< Back <<](../people.html)

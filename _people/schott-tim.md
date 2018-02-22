@@ -13,7 +13,7 @@ roles:
     -role: "Programming"
 ---
 
-Tim Schott is an undergraduate at U.Va. He is doublemajoring in English and Computer Science.
+Tim Schott is an undergraduate at U.Va. He is majoring in English and Computer Science. He helped build the website (fair warning: your mileage may vary).
 
 [<< Back <<](../people.html)
 

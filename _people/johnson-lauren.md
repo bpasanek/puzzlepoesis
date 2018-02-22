@@ -10,6 +10,6 @@ roles:
     - role: "Puzzle Design"
 ---
 
-Lauren Austen Johnson is undergraduate at U.Va. majoring in English and Archaeology and minoring in Astrophysics.
+Lauren A. Johnson (’18) is an Echols Scholar pursuing a BA in Archaeology & English and a minor in Astronomy. Her research interests include Digital Humanities, lyric poetry, and interdisciplinary analysis of poetics.
 
 [<< Back <<](../people.html)

@@ -14,6 +14,6 @@ roles:
   - role: Programming
 ---
 
-Jeremy Little is an undergraduate student at U.Va. He is majoring in the English and Computer Science. 
+Jeremy Little is an undergraduate student at U.Va. He is majoring in the English and Computer Science. He designed the Javascript puzzle game.
 
 [<< Back <<](../people.html)

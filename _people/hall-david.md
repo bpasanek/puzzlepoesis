@@ -11,6 +11,6 @@ roles:
     -role: "Programming"
 ---
 
-David Hall is an undergraduate at U.Va. He is double-majoring in English and Computer Science.
+David Hall is an undergraduate at U.Va. He is double-majoring in English and Computer Science. He is developing a puzzle Tetris game.
 
 [<< Back <<](../people.html)
