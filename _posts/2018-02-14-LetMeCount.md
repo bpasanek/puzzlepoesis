@@ -1,10 +1,18 @@
 ---
 layout: default
 author: Brad Pasanek
+authorFirst: Brad
+authorLast: Pasanek
 title: Let Me Count the Ways
 categories: computation
 ---
 ### Let Me Count the Ways
+
+{% assign author = site.data.members[page.author] %}
+
+<h4>
+Author: <a href="./../../../../people/{{page.authorLast | downcase}}-{{page.authorFirst | downcase}}.html">{{page.authorFirst}} {{page.authorLast}}</a>
+</h4>
 
 For Valentine's Day, we hoped to convert one of Elizabeth Barrett Browning's Sonnets from Portugese into a puzzle.
 

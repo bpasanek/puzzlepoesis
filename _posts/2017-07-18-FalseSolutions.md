@@ -6,6 +6,10 @@ category: solving
 ---
 ### False or "Incongruous" Solutions
 
+<h4>
+Authors: <a href="./../../../../people/pasanek-brad.html">Brad Pasanek</a> and <a href="./../../../../people/curtis-neal.html">Neal Curtis</a>
+</h4>
+
 Soon after we began sharing our puzzles with friends and colleagues, we found that after handing a large pile of pieces to a someone, they often put them together in a rectangular shape, in some cases constructing lines of verse that were plausibly Shakespearean but didn't belong to the original poem. We developed some vocabulary to clarify the situation &mdash; a jargon. When a puzzle solver assembles one of our poem-puzzles into a rectangular shape but doesn't get the pieces in the right place, that is, doesn't put the words where the author put them, we say that he or she has found a _false solution_. 
 
 ![False Solution](../../../../images/falsesolution.jpg)
