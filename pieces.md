@@ -3,9 +3,10 @@ layout: default
 ---
 
 ## Pieces
+* * *
 
 <div style="text-align: left"> As we create new puzzles, we generate critical commentary. These writings highlight relevant aspects of the design process, emphasizing the interplay between a poem and its physical manifestation. </div>
-
+<br>
 <div style="text-align: left"> Currently we are writing under three headings: "Computation," "Fabrication," and "Solving."</div>
 
 <h4> Computation </h4>
