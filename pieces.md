@@ -13,16 +13,19 @@ Currently we are writing under three headings: "Computation," "Fabrication," and
 {% if post.categories contains "computation" %}
 <li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> | {{post.author}} </li>
 {% endif %}
-{% endfor %}
+{% endfor %} 
+<br>
 <h4> Fabrication </h4>
 {% for post in site.posts %} 
 {% if post.categories contains "fabrication" %}
 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> | {{post.author}}</li>
 {% endif %}
 {% endfor %}
+<br>
 <h4> Solving </h4>
 {% for post in site.posts %} 
 {% if post.categories contains "solving" %}
 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> | {{post.author}}</li>
 {% endif %}
 {% endfor %}
+<br>
