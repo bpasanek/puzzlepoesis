@@ -1,0 +1,23 @@
+<!--P PENTOMINO-->
+
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#231F20;stroke-width:0.25;stroke-miterlimit:10;}
+</style>
+<line class="st0" x1="27" y1="9" x2="9" y2="9"/>
+<line class="st0" x1="9" y1="36" x2="9" y2="9"/>
+<line class="st0" x1="18" y1="36" x2="9" y2="36"/>
+<line class="st0" x1="27" y1="9" x2="27" y2="27"/>
+<line class="st0" x1="18" y1="36" x2="18" y2="27"/>
+<line class="st0" x1="27" y1="27" x2="18" y2="27"/>
+</svg>
+
+<!--U PENTOMINO-->
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.25 18.25">
+<defs>
+<style>.cls-1{fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px;}</style>
+</defs>
+<title>Untitled-7</title><line class="cls-1" x1="0.13" y1="0.13" x2="9.13" y2="0.13"/><line class="cls-1" x1="0.13" y1="18.13" x2="0.13" y2="0.13"/><line class="cls-1" x1="9.13" y1="9.13" x2="9.13" y2="0.13"/><line class="cls-1" x1="0.13" y1="18.13" x2="27.13" y2="18.13"/><line class="cls-1" x1="9.13" y1="9.13" x2="18.13" y2="9.13"/><line class="cls-1" x1="18.13" y1="9.13" x2="18.13" y2="0.13"/><line class="cls-1" x1="27.13" y1="0.13" x2="18.13" y2="0.13"/><line class="cls-1" x1="27.13" y1="18.13" x2="27.13" y2="0.13"/></svg>
