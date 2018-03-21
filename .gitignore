@@ -1,7 +1,3 @@
 # This is a file that lists files for git to ignore
 
 _site/
-_site/index.html
-_site/puzzlepoems/sonnet16.html
-_site/puzzlepoems/sunflower.html
-_site/puzzles.html
