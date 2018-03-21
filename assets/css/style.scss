@@ -157,6 +157,15 @@ hr {
 }
 
 
+.topnav {
+    margin-bottom: 20px;
+    div {
+        display:inline-block;
+        margin-right: 10px;
+    }
+}
+
+@media screen and (min-width: 700px) {
 // Top Navigation
 
 .topnav {
@@ -274,6 +283,8 @@ WAS
 .active {
     background-color: rgb(140, 202, 242); color: white;
 }*/
+
+}
 
 
 #rcorners1 {
