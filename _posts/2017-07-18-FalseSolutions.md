@@ -10,7 +10,7 @@ category: solving
 Authors: <a href="./../../../../people/pasanek-brad.html">Brad Pasanek</a> and <a href="./../../../../people/curtis-neal.html">Neal Curtis</a>
 </h4>
 
-When we began sharing our sonnet puzzles with friends and colleagues, we realized that a puzzle solver might assemble loose pieces in a promisingly rectangular shape, but not one in which the words were ordered as authored. In many cases the solver composed new lines of verse that read as plausibly Shakespearean but didn't belong to the original. We developed some vocabulary to clarify this puzzling situation &mdash; a jargon. When a solver assembles one of our poem-puzzles into a rectangular sonnet shape but doesn't get the pieces in the right place, that is, doesn't put the words where the author put them, we say that he or she has found a _false solution_. 
+When we began sharing our sonnet puzzles with friends and colleagues, we realized that a puzzle solver might assemble loose pieces in a promisingly rectangular shape, but not the one in which the words were ordered as authored. In many cases the solver composed new lines of verse that read as plausibly Shakespearean but didn't belong to the original. We developed some vocabulary to clarify this puzzling situation &mdash; a jargon. When a solver assembles one of our poem-puzzles into a rectangular sonnet shape but doesn't get the pieces in the right place, that is, doesn't put the words where the author put them, we say that he or she has found a _false solution_. 
 
 ![False Solution](../../../../images/falsesolution.jpg)
 
