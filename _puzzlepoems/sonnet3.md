@@ -8,7 +8,7 @@ writeup: "Brad Pasanek"
 
 ### Sonnet III. To a Nightingale
 
-Neal Curtis and Brad Pasanek designed and cut five new sestets to give away to colleagues at ASECS 2018. One is shown below, freshly engraved and cut, still warm on the laser cutter's bed.
+Neal Curtis and Brad Pasanek designed and cut five new sestets to give away to colleagues at ASECS 2018. One is shown below, Charlotte Smith's "Sonnet III. To a Nightingale," freshly engraved and cut, still warm on the laser cutter's bed.
 
 ![Sestet, To a Nightingale](../images/smith-nightingale.jpg)
 
