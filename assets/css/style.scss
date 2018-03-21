@@ -2,7 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+@import "fonts";
+@import "rouge-github";
 
+// Variables
 $content-width: 1000px;
 $breakpoint: 800px;
 $nav-height: 70px;
@@ -10,296 +13,7 @@ $nav-background: #ffffff; /*was 262626*/
 /*$nav-font-color: #0000fa;*/
 $link-hover-color: #2581DC;
 
-nav {
-  float: right;
-  padding-bottom: 20px;
-  ul {
-    list-style: none;
-    margin: 0;
-    padding-bottom: 0px;
-    li {
-      float: left;
-      position: relative;
-      a {
-        display: block;
-        padding-bottom: 20px;
-        line-height: $nav-height;
-        background: $nav-background;
-       /*color: $nav-font-color;*/
-        text-decoration: none;
-        &:hover {
-          background: $link-hover-color;
-          /*color: $nav-font-color;*/
-        }
-        &:not(:only-child):after {
-        padding-left: 4px;
-        content: ' ▾';
-        } 
-      }
-      ul li {
-        min-width: 190px;
-        & a {
-          padding: 15px;
-          padding-bottom: 20px;
-          line-height: 20px;
-          z-index: 1;
-        }
-      }
-    }
-  }
-}
-
-.nav-dropdown {
-  position: absolute;
-  display: none;
-  z-index: 1;
-  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
-}
-.nav-mobile {
-  display: none;
-  position: absolute;
-  top: 0;
-  right: 0;
-  background: $nav-background;
-  height: $nav-height;
-  width: $nav-height;
-}
-
-
-@media only screen and (max-width: $breakpoint) {
-  .nav-mobile {
-    display: block;
-  }
-   nav {
-    width: 100%;
-    padding: $nav-height 0 15px;
-    ul {
-      display: none;
-      li {
-        float: none;
-         a {
-          padding: 15px;
-          line-height: 20px;
-        }
-        ul li a {
-          padding-left: 30px;
-        }
-      }
-    }
-  }
-  
- .nav-dropdown {
-   position: static;
-  }
-}
-
-@media screen and (min-width: $breakpoint) {
-  .nav-list {
-    display: block !important;
-  }
-}
-
-.navigation {
-  height: $nav-height;
-  background: $nav-background;
-}
-
-.nav-container {
-  max-width: $content-width;
-  margin: 0 auto;
-}
-
-
-.topnav {
-    background-color: #ffffff; overflow: hidden;
-}
-
-/* Style the links inside the navigation bar */
-
-
-.topnav a {
-    float: left; color: #F5FFFA; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 15px;
-}
-/*this is the place to go to fool around with the text inside the nav bar*/
-
-/*WAS
-.topnav a {
-    float: left; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px;
-}
-*/
-
-/* Change the color of links on hover 
-WAS
-
-.topnav a:hover {
-    background-color: #ddd; color: black;
-}
-*/
-.topnav a:hover {
-    color: black;
-}
-
-/* lightening on hover*/
-.topnav a:hover,
-.topnav a:focus {
-
-    .ppentomino {
-        background: rgba(#A9A9EA,.8);
-    } 
-
-    .upentomino {
-        background: rgba(#DABC99, .8);
-    }
-
-    .xpentomino {
-        background: rgba(#8ACCCA,.8);
-    }
-
-    .ypentomino {
-        background: rgba(#DE9ABB,.8);
-    }
-    .zpentomino {
-        background: rgba(#BDDB9C, .8);
-    }
-}
-h4 + li {
-    margin-top: -15px;
-}
-
-/*Pentominos made with http://bennettfeely.com/clippy/*/
-.ppentomino {
-  width: 75px;
-  height:50px;
-  padding: 21.5px;
-  padding-top: 25px;
-  padding-left: 15px;
-  background: #A9A9EA; /*Lauren's blue purple*/
-  -webkit-clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
-  clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
-}
-
-.w3-btn {width: 100px;
-    
-}
-.upentomino {
-  width: 75px;
-  height:50px;
-  padding: 21.5px;
-  padding-top: 25px;
-  padding-left: 14px;
-  background: #DABC99; /*Lauren's orangey color*/
-  -webkit-clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0);
-  clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0);
-  
-}
-
-.xpentomino {
-    width: 75px;
-    height:75px;
-    padding: 24.5px;
-    padding-left: 15px;
-    background: #8ACCCA; /*Lauren's teal*/
-    -webkit-clip-path: polygon(0 33%, 33% 33%, 33% 0, 66% 0, 66% 33%, 100% 33%, 100% 66%, 66% 66%, 66% 100%, 33% 100%, 33% 66%, 0 66%);
-    clip-path: polygon(0 33%, 33% 33%, 33% 0, 66% 0, 66% 33%, 100% 33%, 100% 66%, 66% 66%, 66% 100%, 33% 100%, 33% 66%, 0 66%);
-}
-
-.ypentomino {
-    width: 100px;
-    height:50px;
-    padding: 24.5px;
-    padding-top: 25px;
-    padding-left: 17px;
-    background: #DE9ABB; /*Lauren's pink*/
-    -webkit-clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%);
-    clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%);
-}
-
-.zpentomino{
-    width: 75px;
-    height:75px;
-    padding: 21.5px;
-    padding-top: 26px;
-    padding-left: 15px;
-    background: #BDDB9C; /*Lauren's green*/
-    -webkit-clip-path: polygon(33% 0, 33% 33%, 100% 33%, 100% 100%, 66% 100%, 66% 66%, 0 66%, 0 0);
-    clip-path: polygon(33% 0, 33% 33%, 100% 33%, 100% 100%, 66% 100%, 66% 66%, 0 66%, 0 0);
-}
-/* Add a color to the active/current link 
-.active {
-    background-color: rgb(140, 202, 242); color: white;
-}*/
-
-
-#rcorners1 {
-    border-radius: 25px;
-    background: #73AD21;
-    padding: 20px; 
-    width: 200px;
-    height: 150px; 
-}
-.center-image
-{
-    margin: 0 auto;
-    display: block;
-}
-@font-face {
-  font-family: 'Noto Sans';
-  font-weight: 400;
-  font-style: normal;
-  src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot');
-  src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot?#iefix') format('embedded-opentype'),
-       local('Noto Sans'),
-       local('Noto-Sans-regular'),
-       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff2') format('woff2'),
-       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff') format('woff'),
-       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.ttf') format('truetype'),
-       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.svg#NotoSans') format('svg');
-}
-
-@font-face {
-  font-family: 'Noto Sans';
-  font-weight: 700;
-  font-style: normal;
-  src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot');
-  src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot?#iefix') format('embedded-opentype'),
-       local('Noto Sans Bold'),
-       local('Noto-Sans-700'),
-       url('../fonts/Noto-Sans-700/Noto-Sans-700.woff2') format('woff2'),
-       url('../fonts/Noto-Sans-700/Noto-Sans-700.woff') format('woff'),
-       url('../fonts/Noto-Sans-700/Noto-Sans-700.ttf') format('truetype'),
-       url('../fonts/Noto-Sans-700/Noto-Sans-700.svg#NotoSans') format('svg');
-}
-
-@font-face {
-  font-family: 'Noto Sans';
-  font-weight: 400;
-  font-style: italic;
-  src: url('../fonts/Noto-Sans-italic/Noto-Sans-italic.eot');
-  src: url('../fonts/Noto-Sans-italic/Noto-Sans-italic.eot?#iefix') format('embedded-opentype'),
-       local('Noto Sans Italic'),
-       local('Noto-Sans-italic'),
-       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.woff2') format('woff2'),
-       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.woff') format('woff'),
-       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.ttf') format('truetype'),
-       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.svg#NotoSans') format('svg');
-}
-
-@font-face {
-  font-family: 'Noto Sans';
-  font-weight: 700;
-  font-style: italic;
-  src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot');
-  src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?#iefix') format('embedded-opentype'),
-       local('Noto Sans Bold Italic'),
-       local('Noto-Sans-700italic'),
-       url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2') format('woff2'),
-       url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff') format('woff'),
-       url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
-       url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
-}
-@import "fonts";
-@import "rouge-github";
-
+// Base styles
 body {
   background-color: #fff;
   padding:50px;
@@ -332,6 +46,10 @@ h2 {
 
 h3, h4, h5, h6 {
   color:#494949;
+}
+
+h4 + li {
+    margin-top: -15px;
 }
 
 a {
@@ -405,57 +123,6 @@ img {
   max-width:100%;
 }
 
-header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
-header ul {
-  list-style:none;
-  height:40px;
-  padding:0;
-  background: #f4f4f4;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
-  width:270px;
-}
-
-header li {
-  width:89px;
-  float:left;
-  border-right:1px solid #e0e0e0;
-  height:40px;
-}
-
-header li:first-child a {
-  border-radius:5px 0 0 5px;
-}
-
-header li:last-child a {
-  border-radius:0 5px 5px 0;
-}
-
-header ul a {
-  line-height:1;
-  font-size:11px;
-  color:#676767;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:34px;
-}
-
-header ul a:hover, header ul a:focus {
-  color:#675C5C;
-  font-weight:bold;
-}
-
-header ul a:active {
-  background-color:#f0f0f0;
-}
-
 strong {
   color:#222;
   font-weight:700;
@@ -489,87 +156,152 @@ hr {
   margin:0 0 20px;
 }
 
-footer {
-  width:600px;
-  float:left;
-  bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
+
+.topnav {
+    margin-bottom: 20px;
+    div {
+        display:inline-block;
+        margin-right: 10px;
+    }
 }
 
-@media print, screen and (max-width: 960px) {
+@media screen and (min-width: 700px) {
+// Top Navigation
 
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
-
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
-
-  header {
-    padding-right:320px;
-  }
-
-  section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
-  }
-
-  header a small {
-    display:inline;
-  }
-
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
-  }
+.topnav {
+    background-color: #ffffff; overflow: hidden;
 }
 
-@media print, screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
-  }
+/* Style the links inside the navigation bar */
 
-  header {
-    padding:0;
-  }
 
-  header ul, header p.view {
-    position:static;
-  }
+.topnav a {
+    float: left; color: #F5FFFA; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 15px;
+}
+/*this is the place to go to fool around with the text inside the nav bar*/
 
-  pre, code {
-    word-wrap:normal;
-  }
+/*WAS
+.topnav a {
+    float: left; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px;
+}
+*/
+
+/* Change the color of links on hover 
+WAS
+
+.topnav a:hover {
+    background-color: #ddd; color: black;
+}
+*/
+.topnav a:hover {
+    color: black;
 }
 
-@media print, screen and (max-width: 480px) {
-  body {
-    padding:15px;
-  }
+/* lightening on hover*/
+.topnav a:hover,
+.topnav a:focus {
 
-  header ul {
-    width:99%;
-  }
+    .ppentomino {
+        background: rgba(#A9A9EA,.8);
+    } 
 
-  header li, header ul li + li + li {
-    width:33%;
-  }
+    .upentomino {
+        background: rgba(#DABC99, .8);
+    }
+
+    .xpentomino {
+        background: rgba(#8ACCCA,.8);
+    }
+
+    .ypentomino {
+        background: rgba(#DE9ABB,.8);
+    }
+    .zpentomino {
+        background: rgba(#BDDB9C, .8);
+    }
 }
 
-@media print {
-  body {
-    padding:0.4in;
-    font-size:12pt;
-    color:#444;
-  }
+/*Pentominos made with http://bennettfeely.com/clippy/*/
+.ppentomino {
+  width: 75px;
+  height:50px;
+  padding: 21.5px;
+  padding-top: 25px;
+  padding-left: 15px;
+  background: #A9A9EA; /*Lauren's blue purple*/
+  -webkit-clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
+  clip-path: polygon(66% 0, 66% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
 }
+
+.w3-btn {width: 100px;
+    
+}
+.upentomino {
+  width: 75px;
+  height:50px;
+  padding: 21.5px;
+  padding-top: 25px;
+  padding-left: 14px;
+  background: #DABC99; /*Lauren's orangey color*/
+  -webkit-clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0);
+  clip-path: polygon(33% 50%, 66% 50%, 66% 0, 100% 0, 100% 100%, 0 100%, 0 0, 33% 0);
+  
+}
+
+.xpentomino {
+    width: 75px;
+    height:75px;
+    padding: 24.5px;
+    padding-left: 15px;
+    background: #8ACCCA; /*Lauren's teal*/
+    -webkit-clip-path: polygon(0 33%, 33% 33%, 33% 0, 66% 0, 66% 33%, 100% 33%, 100% 66%, 66% 66%, 66% 100%, 33% 100%, 33% 66%, 0 66%);
+    clip-path: polygon(0 33%, 33% 33%, 33% 0, 66% 0, 66% 33%, 100% 33%, 100% 66%, 66% 66%, 66% 100%, 33% 100%, 33% 66%, 0 66%);
+}
+
+.ypentomino {
+    width: 100px;
+    height:50px;
+    padding: 24.5px;
+    padding-top: 25px;
+    padding-left: 17px;
+    background: #DE9ABB; /*Lauren's pink*/
+    -webkit-clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%);
+    clip-path: polygon(25% 50%, 25% 0, 50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 50%);
+}
+
+.zpentomino{
+    width: 75px;
+    height:75px;
+    padding: 21.5px;
+    padding-top: 26px;
+    padding-left: 15px;
+    background: #BDDB9C; /*Lauren's green*/
+    -webkit-clip-path: polygon(33% 0, 33% 33%, 100% 33%, 100% 100%, 66% 100%, 66% 66%, 0 66%, 0 0);
+    clip-path: polygon(33% 0, 33% 33%, 100% 33%, 100% 100%, 66% 100%, 66% 66%, 0 66%, 0 0);
+}
+/* Add a color to the active/current link 
+.active {
+    background-color: rgb(140, 202, 242); color: white;
+}*/
+
+}
+
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+
+// Something that's probably important. Let's label it!
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight .cm {
