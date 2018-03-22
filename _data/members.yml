@@ -41,6 +41,16 @@
       - role: Puzzle Design
       - role: Game Design
 
+- name: Chelsea Li
+  firstname: Chelsea
+  lastname: Li
+  signet: cl
+  participation: Core
+  affiliations: 
+      dept: English
+  roles: 
+      - role: Puzzle Design
+      
 - name: Jeremy Little
   firstname: Jeremy
   lastname: Little
