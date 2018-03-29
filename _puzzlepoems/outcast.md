@@ -8,7 +8,7 @@ writeup: "Brad Pasanek"
 
 ### Claude McKay, "Outcast"
 
-![Sestet, McKay's Outcast](../images/Mckay-sestet.jpg)
+![Sestet, Outcast](../images/McKay-sestet.jpg)
 
 Brad Pasanek found a Claude McKay sonnet that piecifies and has fabricated two sestet puzzles in bamboo. 
 
