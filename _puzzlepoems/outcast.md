@@ -8,17 +8,19 @@ writeup: "Brad Pasanek"
 
 ### Claude McKay, "Outcast"
 
-![Sestet, McKay's "Outcast"](../images/Mckay-sestet.jpg)
+![Sestet, McKay's Outcast](../images/Mckay-sestet.jpg)
 
-We've found a Claude McKay sonnet that piecifies and have fabricated two sestet puzzles in bamboo. 
+Brad Pasanek found a Claude McKay sonnet that piecifies and has fabricated two sestet puzzles in bamboo. 
 
-The poem is McKay's "Outcast," a sonnet that seems to thematize the misfitting of identity and form in its contrast of 
-"forgotten songs" (lines 2 and 3) and the constraints of the English verse form. As an eighteenth-centuryist, I can't 
-help but note what look like allusions to Phyllis Wheatley ("native clime") alongside the play of other "unheard melodies".
+The poem is McKay's "Outcast," a sonnet that seems to thematize the misfitting of identity and form in its placing of 
+"forgotten jungle songs" (line 3) within an English verse form. As an eighteenth-centuryist, Brad can't help but 
+note what look like allusions to Phyllis Wheatley ("native clime") alongside the play of other "unheard melodies". But the verses are 
+more adamantly homesick and therefore more characteristically Modernist. Explicit, too. McKay's naming of "the white man's menace" condemns the cause of the rift in the closing couplet.
 
-But the structuring volta is what our puzzle makes most plain--perhaps too patent. An English sonnet, a Jamaican-American poet. 
-The poem divides sharply into a nostalgic octave and an alienated sestet, 
-an African past and a Harlem Renaissance present. 
+The structuring volta is what our puzzle makes most plain -- perhaps even too patent. An English sonnet, a Jamaican-American poet: 
+"Outcast" divides sharply into a nostalgic octave and an alienated sestet, an African past and a Harlem Renaissance present. 
+
+The intended politics of the puzzle allow the solver to work at integration. But its moral, if puzzles can have morals, is more complicated. Reparation and reconciliation are yet come, still blocked by menace of white supremacy. 
 
 Read McKay's full sonnet below: 
 
