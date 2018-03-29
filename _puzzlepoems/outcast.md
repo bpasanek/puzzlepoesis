@@ -8,7 +8,7 @@ writeup: "Brad Pasanek"
 
 ### Claude McKay, "Outcast"
 
-![Sestet, McKay's "Outcast"](../images/mckay-sestet.jpg)
+![Sestet, McKay's "Outcast"](../images/Mckay-sestet.jpg)
 
 We've found a Claude McKay sonnet that piecifies and have fabricated two sestet puzzles in bamboo. 
 
@@ -22,7 +22,7 @@ an African past and a Harlem Renaissance present.
 
 Read McKay's full sonnet below: 
 
-##### Outcast  
+**Outcast**  
 
 For the dim regions whence my fathers came  
 My spirit, bondaged by the body, longs.  
