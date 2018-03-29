@@ -40,3 +40,5 @@ And I must walk the way of life a ghost
 Among the sons of earth, a thing apart;  
 For I was born, far from my native clime,  
 Under the white man’s menace, out of time.  
+
+&nbsp; &nbsp; &nbsp; -- from Harlem Shadows (New York: Harcourt, Brace and Company, 1922), p. [45](https://books.google.com/books?id=aKTPAAAAMAAJ&pg=PA45#v=onepage&q&f=false).
