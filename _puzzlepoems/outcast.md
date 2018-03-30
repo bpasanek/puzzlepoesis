@@ -10,7 +10,7 @@ writeup: "Brad Pasanek"
 
 ![Sestet, Outcast](../images/McKay-sestet.jpg)
 
-Brad Pasanek found in _Harlem Shadows_ (1922) a Claude McKay sonnet that [piecifies](./../../../../posts/2017-07-14-Recipe.md) and fabricated two sestet puzzles in bamboo. 
+Brad Pasanek found in _Harlem Shadows_ (1922) a Claude McKay sonnet that [piecifies](../posts/2017-07-14-Recipe.md) and fabricated two sestet puzzles in bamboo. 
 
 The poem is McKay's "Outcast," a sonnet that seems to thematize the misfitting of identity and form in its placing of 
 "forgotten jungle songs" (line 3) within an English verse form. 
