@@ -13,7 +13,7 @@ writeup: "Brad Pasanek"
 Brad Pasanek found a Claude McKay sonnet that [piecifies](https://bpasanek.github.io/puzzlepoesis/fabrication/2017/07/14/Recipe.html) and fabricated two sestet puzzles in bamboo. 
 
 The poem is McKay's "Outcast," a sonnet that seems to thematize the misfitting of identity and form in its placing of 
-"forgotten jungle songs" (line 3) within an English verse form. McKay (1889-1948) was an Afro-Caribbean poet and novelist and a leading voice in the Harlem Renaissance. Politically radical and a world traveler, he wrote several sonnets about race and racism in the 1910s and 20s that display his formal ingenuity and mastery of the traditional form. 
+"forgotten jungle songs" (line 3) within an English verse form. 
 
 As an eighteenth-centuryist, I/Brad can't help note what look like allusions to Phyllis Wheatley (her neoclassical "native clime") alongside the play of other "unheard melodies." But McKay's modern verses are more adamantly homesick and therefore more characteristically Modernist. More explicit and forthright, too: McKay's naming of "the white man's menace" condemns the cause of a fundamental rift in modernity in the closing couplet.
 
