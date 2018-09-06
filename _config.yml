@@ -1,3 +1,5 @@
+repository: bpasanek/puzzlepoesis # needed to run locally (see default.html)
+
 l#theme: jekyll-theme-minimal
 
 collections:
