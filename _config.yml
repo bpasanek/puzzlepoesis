@@ -8,6 +8,8 @@ collections:
 
 baseurl: /puzzlepoesis
 
+incremental: true
+
 sass:
     sass_dir: _scss
 
