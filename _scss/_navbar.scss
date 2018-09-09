@@ -7,6 +7,7 @@ $pentomino-orange: #DABC99;
 $pentomino-green: #BDDB9C;
 $pentomino-purple: #A9A9EA;
 
+/* Wrapper: */
 .grid-wrapper {
 	position: relative;
 	display: grid;
@@ -22,6 +23,8 @@ $pentomino-purple: #A9A9EA;
 	}
 }
 
+/* Pentominos: */
+
 // Catch any item whose class contains the string 'pentomino-'
 [class*="pentomino-"] {
 	position: relative;
@@ -35,9 +38,11 @@ $pentomino-purple: #A9A9EA;
 		align-items: center;
 		width: 100%;
 		height: 100%;
+
 	}
 }
 
+// home
 .pentomino-p {
 	position: relative;
 	grid-column: 1 / span 3;
@@ -56,15 +61,14 @@ $pentomino-purple: #A9A9EA;
 	}
 }
 
+// people
 .pentomino-r {
-//	background-color: lightpink;
 	grid-column: 3 / span 3;
 	grid-row: 1 / span 3;
 	grid-template-columns: repeat(3, 1fr);
 	grid-template-rows: repeat(3, 1fr);
 	div {
 		background-color: lightpink;
-	//	border: 1px solid red;
 		&:nth-child(1), &:nth-child(6), &:nth-child(7), &:nth-child(9) {
 			background-color: transparent !important;
 		}
@@ -75,8 +79,8 @@ $pentomino-purple: #A9A9EA;
 	}
 }
 
+// puzzles
 .pentomino-u {
-//	background-color: lightgreen;
 	grid-column: 1 / span 2;
 	grid-row: 3 / span 3;
 	grid-template-columns: repeat(2, 1fr);
@@ -93,8 +97,8 @@ $pentomino-purple: #A9A9EA;
 	}
 }
 
+// pieces
 .pentomino-x {
-//	background-color: lightyellow;
 	grid-column: 2 / span 3;
 	grid-row: 3 / span 3;
 	grid-template-columns: repeat(3, 1fr);
@@ -112,8 +116,8 @@ $pentomino-purple: #A9A9EA;
 	}
 }
 
+// project
 .pentomino-l {
-//	background-color: lavender;
 	grid-column: 4 / span 2;
 	grid-row: 2 / span 4;
 	grid-template-columns: repeat(2, 1fr);
