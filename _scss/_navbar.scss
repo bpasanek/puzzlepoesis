@@ -11,8 +11,8 @@ $pentomino-purple: #A9A9EA;
 .grid-wrapper {
 	position: relative;
 	display: grid;
-	grid-template-columns: repeat(5, 50px);
-	grid-template-rows: repeat(5, 50px);
+	grid-template-columns: repeat(5, 2.5rem);
+	grid-template-rows: repeat(5, 2.5rem);
 	@media screen and (min-width: 600px) {
 		grid-template-columns: repeat(3, auto);
 		grid-template-rows: repeat(2, auto);
@@ -81,8 +81,8 @@ $pentomino-purple: #A9A9EA;
 		}
 	}
 	@media screen and (min-width: 600px) {
-		height: 100px;
-		width: 150px;
+		height: calc(2 * 2.5rem);
+		width: calc(3 * 2.5rem);
 	}
 }
 
@@ -100,8 +100,8 @@ $pentomino-purple: #A9A9EA;
 		}
 	}
 	@media screen and (min-width: 600px) {
-		height: 150px;
-		width: 150px;
+		height: calc(3 * 2.5rem);
+		width: calc(3 * 2.5rem);
 	}
 }
 
@@ -119,8 +119,8 @@ $pentomino-purple: #A9A9EA;
 		}
 	}
 	@media screen and (min-width: 600px) {
-		height: 150px;
-		width: 100px;
+		height: calc(3 * 2.5rem);
+		width: calc(2 * 2.5rem);
 	}
 }
 
@@ -139,8 +139,8 @@ $pentomino-purple: #A9A9EA;
 		}
 	}
 	@media screen and (min-width: 600px) {
-		height: 150px;
-		width: 150px;
+		height: calc(3 * 2.5rem);
+		width: calc(3 * 2.5rem);
 	}
 }
 
@@ -159,7 +159,7 @@ $pentomino-purple: #A9A9EA;
 		}
 	}
 	@media screen and (min-width: 600px) {
-		height: 200px;
-		width: 100px;
+		height: calc(4 * 2.5rem);
+		width: calc(2 * 2.5rem);
 	}
 }
