@@ -50,11 +50,11 @@ $pentomino-purple: #A9A9EA;
 		font-size: 1rem;
 		font-weight: 600;
 		font-variant: small-caps;
-		letter-spacing: .5px;
-		color: white; //hsla(0, 0%, 0%, .7);
+		letter-spacing: 1px;
+		color: black; // white; //hsla(0, 0%, 0%, .7);
 		transition: color .2s;
 		&:hover, &:focus {
-			color: white; //hsla(0, 0%, 0%, .5);
+			color: black; // white; //hsla(0, 0%, 0%, .5);
 			text-decoration: none;
 		}
 	}
