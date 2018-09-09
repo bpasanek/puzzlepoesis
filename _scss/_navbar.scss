@@ -50,9 +50,10 @@ $pentomino-purple: #A9A9EA;
 	grid-template-columns: repeat(3, 1fr);
 	grid-template-rows: repeat(2, 1fr);
 	div {
-		background-color: lightblue;
+		background-color: $pentomino-purple;
 		&:nth-child(6) {
 			background-color: transparent !important;
+			border: none !important;
 		}
 	}
 	@media screen and (min-width: 600px) {
@@ -68,9 +69,10 @@ $pentomino-purple: #A9A9EA;
 	grid-template-columns: repeat(3, 1fr);
 	grid-template-rows: repeat(3, 1fr);
 	div {
-		background-color: lightpink;
+		background-color: $pentomino-green;
 		&:nth-child(1), &:nth-child(6), &:nth-child(7), &:nth-child(9) {
 			background-color: transparent !important;
+			border: none !important;
 		}
 	}
 	@media screen and (min-width: 600px) {
@@ -86,9 +88,10 @@ $pentomino-purple: #A9A9EA;
 	grid-template-columns: repeat(2, 1fr);
 	grid-template-rows: repeat(3, 1fr);
 	div {
-		background-color: lightgreen;
+		background-color: $pentomino-orange;
 		&:nth-child(4) {
 			background-color: transparent !important;
+			border: none !important;
 		}
 	}
 	@media screen and (min-width: 600px) {
@@ -105,9 +108,10 @@ $pentomino-purple: #A9A9EA;
 	grid-template-rows: repeat(3, 1fr);
 	z-index: 6;
 	div {
-		background-color: lightyellow;
+		background-color: $pentomino-pink;
 		&:nth-child(1), &:nth-child(3), &:nth-child(7), &:nth-child(9) {
 			background-color: transparent !important;
+			border: none !important;
 		}
 	}
 	@media screen and (min-width: 600px) {
@@ -124,9 +128,10 @@ $pentomino-purple: #A9A9EA;
 	grid-template-rows: repeat(4, 1fr);
 	z-index: 6;
 	div {
-		background-color: lavender;
+		background-color: $pentomino-teal;
 		&:nth-child(1), &:nth-child(3), &:nth-child(5) {
 			background-color: transparent !important;
+			border: none !important;
 		}
 	}
 	@media screen and (min-width: 600px) {
