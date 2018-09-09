@@ -30,6 +30,9 @@ $pentomino-purple: #A9A9EA;
 	border: 1px solid black;
 	a {
 		position: absolute;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 		width: 100%;
 		height: 100%;
 	}
