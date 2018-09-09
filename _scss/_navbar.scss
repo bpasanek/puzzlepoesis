@@ -33,10 +33,10 @@ $pentomino-purple: #A9A9EA;
 	transition: opacity .2s, border .2s;
 	div {
 		transition: opacity .2s, border .2s;
-		border-top: 2px solid hsla(0, 0%, 100%, .3);
-		border-left: 2px solid hsla(0, 0%, 100%, .3);
-		border-bottom: 2px solid hsla(0, 0%, 0%, .15);
-		border-right: 2px solid hsla(0, 0%, 0%, .15);
+		border-top: 1px solid hsla(0, 0%, 100%, .3);
+		border-left: 1px solid hsla(0, 0%, 100%, .3);
+		border-bottom: 1px solid hsla(0, 0%, 0%, .15);
+		border-right: 1px solid hsla(0, 0%, 0%, .15);
 		opacity: 1;
 	}
 	a {
@@ -60,8 +60,8 @@ $pentomino-purple: #A9A9EA;
 	}
 	&:hover, &:focus {
 		div {
-			opacity: .9;
-			border-width: 1px;
+			opacity: 1;
+			border-width: 2px;
 		}
 	}
 }
