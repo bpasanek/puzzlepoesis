@@ -29,8 +29,16 @@ $pentomino-purple: #A9A9EA;
 [class*="pentomino-"] {
 	position: relative;
 	display: grid;
-	opacity: .7;
-	border: 1px solid black;
+//	border: 1px solid black;
+	transition: opacity .2s, border .2s;
+	div {
+		transition: opacity .2s, border .2s;
+		border-top: 2px solid hsla(0, 0%, 100%, .3);
+		border-left: 2px solid hsla(0, 0%, 100%, .3);
+		border-bottom: 2px solid hsla(0, 0%, 0%, .15);
+		border-right: 2px solid hsla(0, 0%, 0%, .15);
+		opacity: 1;
+	}
 	a {
 		position: absolute;
 		display: flex;
@@ -38,7 +46,23 @@ $pentomino-purple: #A9A9EA;
 		align-items: center;
 		width: 100%;
 		height: 100%;
-
+		font-family: 'EB Garamond', serif;
+		font-size: 1rem;
+		font-weight: 600;
+		font-variant: small-caps;
+		letter-spacing: .5px;
+		color: white; //hsla(0, 0%, 0%, .7);
+		transition: color .2s;
+		&:hover, &:focus {
+			color: white; //hsla(0, 0%, 0%, .5);
+			text-decoration: none;
+		}
+	}
+	&:hover, &:focus {
+		div {
+			opacity: .9;
+			border-width: 1px;
+		}
 	}
 }
 
