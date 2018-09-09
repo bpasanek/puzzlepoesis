@@ -1,1 +1,112 @@
 /* Navbar Styles: */
+
+.grid-wrapper {
+	position: relative;
+	display: grid;
+	grid-template-columns: repeat(5, 50px);
+	grid-template-rows: repeat(5, 50px);
+	@media screen and (min-width: 600px) {
+		grid-template-columns: repeat(3, auto);
+		grid-template-rows: repeat(2, auto);
+	}
+}
+
+// Catch any item whose class contains the string 'grid-item--'
+[class*="pentomino-"] {
+	position: relative;
+	display: grid;
+	opacity: .7;
+}
+
+.pentomino-p {
+	position: relative;
+	grid-column: 1 / span 3;
+	grid-row: 1 / span 2;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+	div {
+		background-color: lightblue;
+		&:nth-child(6) {
+			background-color: transparent !important;
+		}
+	}
+	@media screen and (min-width: 600px) {
+		height: 100px;
+		width: 150px;
+	}
+}
+
+.pentomino-r {
+//	background-color: lightpink;
+	grid-column: 3 / span 3;
+	grid-row: 1 / span 3;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	div {
+		background-color: lightpink;
+	//	border: 1px solid red;
+		&:nth-child(1), &:nth-child(6), &:nth-child(7), &:nth-child(9) {
+			background-color: transparent !important;
+		}
+	}
+	@media screen and (min-width: 600px) {
+		height: 150px;
+		width: 150px;
+	}
+}
+
+.pentomino-u {
+//	background-color: lightgreen;
+	grid-column: 1 / span 2;
+	grid-row: 3 / span 3;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	div {
+		background-color: lightgreen;
+		&:nth-child(4) {
+			background-color: transparent !important;
+		}
+	}
+	@media screen and (min-width: 600px) {
+		height: 150px;
+		width: 100px;
+	}
+}
+
+.pentomino-x {
+//	background-color: lightyellow;
+	grid-column: 2 / span 3;
+	grid-row: 3 / span 3;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	z-index: 6;
+	div {
+		background-color: lightyellow;
+		&:nth-child(1), &:nth-child(3), &:nth-child(7), &:nth-child(9) {
+			background-color: transparent !important;
+		}
+	}
+	@media screen and (min-width: 600px) {
+		height: 150px;
+		width: 150px;
+	}
+}
+
+.pentomino-l {
+//	background-color: lavender;
+	grid-column: 4 / span 2;
+	grid-row: 2 / span 4;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(4, 1fr);
+	z-index: 6;
+	div {
+		background-color: lavender;
+		&:nth-child(1), &:nth-child(3), &:nth-child(5) {
+			background-color: transparent !important;
+		}
+	}
+	@media screen and (min-width: 600px) {
+		height: 200px;
+		width: 100px;
+	}
+}
