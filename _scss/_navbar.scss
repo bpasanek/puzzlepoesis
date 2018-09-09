@@ -16,6 +16,10 @@ $pentomino-purple: #A9A9EA;
 		grid-template-columns: repeat(3, auto);
 		grid-template-rows: repeat(2, auto);
 	}
+	@media screen and (min-width: 900px) {
+		display: flex;
+		justify-content: space-between;
+	}
 }
 
 // Catch any item whose class contains the string 'pentomino-'
