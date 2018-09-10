@@ -7,6 +7,10 @@ $pentomino-orange: #DABC99;
 $pentomino-green: #BDDB9C;
 $pentomino-purple: #A9A9EA;
 
+body {
+	padding-top: 25px !important;
+}
+
 /* Wrapper: */
 .grid-wrapper {
 	position: relative;
