@@ -29,6 +29,7 @@ body {
 	@media screen and (min-width: 900px) {
 		display: flex;
 		justify-content: space-between;
+		align-items: center;
 	}
 }
 
@@ -95,10 +96,15 @@ body {
 	a {
 		justify-content: flex-start;
 		align-items: flex-start;
+		padding-left: 1.25rem;
 	}
 	@media screen and (min-width: 600px) {
 		height: calc(2 * 2.5rem);
 		width: calc(3 * 2.5rem);
+		a {
+			align-items: flex-end;
+			padding-bottom: .75rem;
+		}
 	}
 }
 
@@ -108,6 +114,7 @@ body {
 	grid-row: 1 / span 3;
 	grid-template-columns: repeat(3, 1fr);
 	grid-template-rows: repeat(3, 1fr);
+	z-index: 8;
 	div {
 		background-color: $pentomino-green;
 		&:nth-child(1),
@@ -133,6 +140,7 @@ body {
 	grid-row: 3 / span 3;
 	grid-template-columns: repeat(2, 1fr);
 	grid-template-rows: repeat(3, 1fr);
+	z-index: 7;
 	div {
 		background-color: $pentomino-orange;
 		&:nth-child(4) {
@@ -147,14 +155,18 @@ body {
 	@media screen and (min-width: 600px) {
 		height: calc(3 * 2.5rem);
 		width: calc(2 * 2.5rem);
-		transform: rotate(90deg);
+	//	margin-top: 1rem;
+	/* 	transform: rotate(90deg);
 		a {
 			align-items: flex-start;
 			writing-mode: vertical-lr;
 			span {
 				transform: rotate(180deg);
 			}
-		}
+		} */
+	}
+	@media screen and (min-width: 900px) {
+		margin: 0;
 	}
 }
 
@@ -202,7 +214,11 @@ body {
 		padding-bottom: .75rem;
 	}
 	@media screen and (min-width: 600px) {
+		align-self: end;
 		height: calc(4 * 2.5rem);
 		width: calc(2 * 2.5rem);
+	}
+	@media screen and (min-width: 900px) {
+		margin: 0;
 	}
 }
