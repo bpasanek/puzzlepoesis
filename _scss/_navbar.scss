@@ -25,7 +25,7 @@ $pentomino-purple: #A9A9EA;
 
 /* Pentominos: */
 
-// Catch any item w/ class containing 'pentomino-'
+/* Base styles: */
 [class*="pentomino-"] {
 	position: relative;
 	display: grid;
@@ -64,6 +64,8 @@ $pentomino-purple: #A9A9EA;
 		}
 	}
 }
+
+/* Item-specific styles: */
 
 // home
 .pentomino-p {
