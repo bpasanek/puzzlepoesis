@@ -17,9 +17,14 @@ body {
 	display: grid;
 	grid-template-columns: repeat(5, 2.5rem);
 	grid-template-rows: repeat(5, 2.5rem);
+	justify-content: center;
+	padding-bottom: 25px;
+	margin: 0 auto;
 	@media screen and (min-width: 600px) {
-		grid-template-columns: repeat(3, auto);
-		grid-template-rows: repeat(2, auto);
+		grid-template-columns: repeat(4, 1fr);
+		grid-template-rows: repeat(2, 1fr);
+		padding: 0 5rem;
+		padding-bottom: 25px;
 	}
 	@media screen and (min-width: 900px) {
 		display: flex;
