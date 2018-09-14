@@ -1,3 +1,5 @@
+repository: bpasanek/puzzlepoesis # needed to run locally (see default.html)
+
 l#theme: jekyll-theme-minimal
 
 collections:
@@ -6,11 +8,10 @@ collections:
 
 baseurl: /puzzlepoesis
 
-#sass:
- #   sass_dir: _sass
+incremental: true
 
-scss:
-    scss_dir: _scss
+sass:
+    sass_dir: _scss
 
 collections:
     puzzlepoems:

@@ -1,0 +1,224 @@
+/* Navbar Styles: */
+
+/* Colors: */
+$pentomino-pink: #DE9ABB;
+$pentomino-teal: #8ACCCA;
+$pentomino-orange: #DABC99;
+$pentomino-green: #BDDB9C;
+$pentomino-purple: #A9A9EA;
+
+body {
+	padding-top: 25px !important;
+}
+
+/* Wrapper: */
+.grid-wrapper {
+	position: relative;
+	display: grid;
+	grid-template-columns: repeat(5, 2.5rem);
+	grid-template-rows: repeat(5, 2.5rem);
+	justify-content: center;
+	padding-bottom: 25px;
+	margin: 0 auto;
+	@media screen and (min-width: 600px) {
+		grid-template-columns: repeat(4, 1fr);
+		grid-template-rows: repeat(2, 1fr);
+		padding: 0 5rem;
+		padding-bottom: 25px;
+	}
+	@media screen and (min-width: 900px) {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+}
+
+/* Pentominos: */
+
+/* Base styles: */
+[class*="pentomino-"] {
+	position: relative;
+	display: grid;
+	transition: opacity .2s, border .2s;
+	div {
+		transition: opacity .2s, border .2s;
+		border-top: 1px solid hsla(0, 0%, 100%, .3);
+		border-left: 1px solid hsla(0, 0%, 100%, .3);
+		border-bottom: 1px solid hsla(0, 0%, 0%, .15);
+		border-right: 1px solid hsla(0, 0%, 0%, .15);
+		opacity: 1;
+	}
+	a {
+		position: absolute;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		width: 100%;
+		height: 100%;
+		padding: 1.25rem 1rem;
+		font-family: 'EB Garamond', serif;
+		font-size: 1rem;
+		font-weight: 600;
+		font-variant: small-caps;
+		line-height: 1;
+		letter-spacing: 1px;
+		color: black;
+		transition: color .2s;
+		&:hover, &:focus {
+			color: black;
+			text-decoration: none;
+		}
+	}
+	&:hover, &:focus {
+		div {
+			opacity: 1;
+			border-width: 2px;
+		}
+	}
+}
+
+/* Item-specific styles: */
+
+// home
+.pentomino-p {
+	position: relative;
+	grid-column: 1 / span 3;
+	grid-row: 1 / span 2;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+	div {
+		background-color: $pentomino-purple;
+		&:nth-child(6) {
+			background-color: transparent !important;
+			border: none !important;
+		}
+	}
+	a {
+		justify-content: flex-start;
+		align-items: flex-start;
+		padding-left: 1.25rem;
+	}
+	@media screen and (min-width: 600px) {
+		height: calc(2 * 2.5rem);
+		width: calc(3 * 2.5rem);
+		a {
+			align-items: flex-end;
+			padding-bottom: .75rem;
+		}
+	}
+}
+
+// people
+.pentomino-r {
+	grid-column: 3 / span 3;
+	grid-row: 1 / span 3;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	z-index: 8;
+	div {
+		background-color: $pentomino-green;
+		&:nth-child(1),
+		&:nth-child(6),
+		&:nth-child(7),
+		&:nth-child(9) {
+			background-color: transparent !important;
+			border: none !important;
+		}
+	}
+	a {
+		justify-content: flex-start;
+	}
+	@media screen and (min-width: 600px) {
+		height: calc(3 * 2.5rem);
+		width: calc(3 * 2.5rem);
+	}
+}
+
+// puzzles
+.pentomino-u {
+	grid-column: 1 / span 2;
+	grid-row: 3 / span 3;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	z-index: 7;
+	div {
+		background-color: $pentomino-orange;
+		&:nth-child(4) {
+			background-color: transparent !important;
+			border: none !important;
+		}
+	}
+	a {
+		align-items: flex-end;
+		padding-bottom: .75rem;
+	}
+	@media screen and (min-width: 600px) {
+		height: calc(3 * 2.5rem);
+		width: calc(2 * 2.5rem);
+	//	margin-top: 1rem;
+	/* 	transform: rotate(90deg);
+		a {
+			align-items: flex-start;
+			writing-mode: vertical-lr;
+			span {
+				transform: rotate(180deg);
+			}
+		} */
+	}
+	@media screen and (min-width: 900px) {
+		margin: 0;
+	}
+}
+
+// pieces
+.pentomino-x {
+	grid-column: 2 / span 3;
+	grid-row: 3 / span 3;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	z-index: 6;
+	div {
+		background-color: $pentomino-pink;
+		&:nth-child(1),
+		&:nth-child(3),
+		&:nth-child(7),
+		&:nth-child(9) {
+			background-color: transparent !important;
+			border: none !important;
+		}
+	}
+	@media screen and (min-width: 600px) {
+		height: calc(3 * 2.5rem);
+		width: calc(3 * 2.5rem);
+	}
+}
+
+// project
+.pentomino-l {
+	grid-column: 4 / span 2;
+	grid-row: 2 / span 4;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(4, 1fr);
+	z-index: 6;
+	div {
+		background-color: $pentomino-teal;
+		&:nth-child(1),
+		&:nth-child(3),
+		&:nth-child(5) {
+			background-color: transparent !important;
+			border: none !important;
+		}
+	}
+	a {
+		align-items: flex-end;
+		padding-bottom: .75rem;
+	}
+	@media screen and (min-width: 600px) {
+		align-self: end;
+		height: calc(4 * 2.5rem);
+		width: calc(2 * 2.5rem);
+	}
+	@media screen and (min-width: 900px) {
+		margin: 0;
+	}
+}
