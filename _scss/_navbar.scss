@@ -42,10 +42,10 @@ body {
 	transition: opacity .2s, border .2s;
 	div {
 		transition: opacity .2s, border .2s;
-		border-top: 1px solid hsla(0, 0%, 100%, .3);
-		border-left: 1px solid hsla(0, 0%, 100%, .3);
-		border-bottom: 1px solid hsla(0, 0%, 0%, .15);
-		border-right: 1px solid hsla(0, 0%, 0%, .15);
+		border-top: 0px solid hsla(0, 0%, 100%, .3);
+		border-left: 0px solid hsla(0, 0%, 100%, .3);
+		border-bottom: 0px solid hsla(0, 0%, 0%, .15);
+		border-right: 0px solid hsla(0, 0%, 0%, .15);
 		opacity: 1;
 	}
 	a {
