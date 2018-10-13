@@ -12,7 +12,7 @@
   firstname: Vanessa
   lastname: Braganza
   signet: vb
-  participation: Core
+  participation: Alum
   affiliations:  
       dept: English
   roles: 
@@ -33,7 +33,7 @@
   firstname: David
   lastname: Hall
   signet: dh
-  participation: Core
+  participation: Alum
   affiliations: 
       dept: English
       dept: Computer Science
@@ -55,7 +55,7 @@
   firstname: Jeremy
   lastname: Little
   signet: jl
-  participation: Core
+  participation: Alum
   affiliations:
       dept: English
       dept: Computer Science
@@ -77,7 +77,7 @@
   firstname: Lauren
   lastname: Johnson
   signet: lj
-  participation: Core
+  participation: Alum
   affiliations:
       dept: English
       dept: Art History
