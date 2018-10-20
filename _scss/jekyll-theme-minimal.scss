@@ -105,6 +105,10 @@ img {
   max-width:100%;
 }
 
+img + em { 
+  float:left;
+  font-size:9px}
+
 header {
   width:270px;
   float:left;

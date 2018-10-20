@@ -4,7 +4,9 @@ layout: default
 
 ## Pieces
 
-As we create new puzzles, we generate critical commentary. These writings highlight relevant aspects of the design process, emphasizing the interplay between a poem and its physical manifestation.
+As we create new puzzles, we generate critical commentary, archiving it here. These writings highlight aspects of the design process, emphasizing the interplay between a poem and its physical manifestation. 
+
+For a quick overview of what the Puzzle Poesis group is all about, we recommend starting (where we did) with "How to Make a Poem into a Puzzle". 
 
 Currently we are writing under four headings: Events, Computation, Fabrication, and Solving.
 
