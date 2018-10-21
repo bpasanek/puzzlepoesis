@@ -6,7 +6,7 @@ layout: default
 
 As we create new puzzles, we generate critical commentary, archiving it here. These writings highlight aspects of the design process, emphasizing the interplay between a poem and its physical manifestation. 
 
-For a quick overview of what the Puzzle Poesis group is all about, we recommend starting (where we did) with "How to Make a Poem into a Puzzle". 
+For a quick overview of Puzzle Poesis aims and methods, we recommend starting (as we did) with learning [How to Make a Poem into a Puzzle](https://bpasanek.github.io/puzzlepoesis/fabrication/2018/07/20/Recipe.html). 
 
 Currently we are writing under four headings: Events, Computation, Fabrication, and Solving.
 

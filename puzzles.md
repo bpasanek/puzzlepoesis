@@ -4,7 +4,7 @@ layout: default
 
 # Puzzles
 
-Find below a sampling of some of the puzzles we have constructed so far.
+Find below a sampling of some of the puzzles we have constructed so far. We also show off our puzzles on [Instagram](https://www.instagram.com/puzzlepoesis/).
 
 
 <ul>
