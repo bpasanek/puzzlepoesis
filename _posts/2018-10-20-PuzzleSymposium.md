@@ -15,7 +15,7 @@ It's an emphatically interdisciplinary affair with far-flung scholars from Compu
 
 Register for Kate Compton's workshop (and the lunch following) [here](https://docs.google.com/forms/d/e/1FAIpQLSfB8ZttNbHjjZc2nnmySGKtZoLfp3JcnetDO_3H7_76YYRleg/viewform).
 
-Download a collection of riddle poems for Chip Tucker's discussion [here]({{ site.url }}/docs/riddlepoems.pdf).
+Download a collection of riddle poems for Chip Tucker's discussion [here](https://github.com/bpasanek/puzzlepoesis/raw/gh-pages/docs/riddlepoems.pdf).
 
 More details available in our program, below:
 
