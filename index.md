@@ -9,7 +9,7 @@ You have arrived at the home of UVa's Puzzle Poetry working group. Launched in t
 
 Several of our efforts are documented in these pages. Follow us on [Instagram](https://www.instagram.com/puzzlepoesis/). More puzzle projects are forthcoming...
 
-*NEWS*: Our conference, "Puzzles, Bots, and Poetics," is this week, October 26th and 27th. Featuring a bot-making workshop with Kate Compton, a master class with Herbert Tucker, and talks by Tony Veale, Sarah Tindal Kareem, Louis Bury, Dennis Tenen, Whitney Sperrazza, and Bret Rothstein. More information available [here](https://bpasanek.github.io/puzzlepoesis/events/2018/10/20/PuzzleSymposium.html). 
+***NEWS***: Our conference, "Puzzles, Bots, and Poetics," is this week, October 26th and 27th. Featuring a bot-making workshop with Kate Compton, a master class with Herbert Tucker, and talks by Tony Veale, Sarah Tindal Kareem, Louis Bury, Dennis Tenen, Whitney Sperrazza, and Bret Rothstein. More information available [here](https://bpasanek.github.io/puzzlepoesis/events/2018/10/20/PuzzleSymposium.html). 
 
 <!--
 
