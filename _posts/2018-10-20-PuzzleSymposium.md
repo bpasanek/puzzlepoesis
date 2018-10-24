@@ -7,7 +7,15 @@ categories: events
 
 ### Puzzle, Bots, and Poetics: A Symposium
 
-October 26th and 27th, Alderman 421. We are very excited about this event, which has been organized as a two-day conversation about poetics, very broadly construed. It's an emphatically interdisciplinary affair with far-flung scholars from Computer Science (Compton and Veale), English (Bury, Kareem, Sperrazza, and Tenen), and Art History (Rothstein) coming to UVa to talk about constraint, creativity, twitterbots, Oulipo, and puzzles. The assembled talks investigate classical tropes and artifacts (Kareem and Rothstein), early modern making (Sperrazza), form in the eighteenth and nineteenth centuries (Kareem and Tucker), artistic production in Modernism and after (Tenen, Bury, and Rothstein), including the freshly time-stamped offerings of moments ago (Compton, and Veale).
+###### October 26th and 27th, Alderman 421. 
+
+We are very excited about this event, which has been organized as a two-day conversation about poetics, very broadly construed. We're featuring a bot-making workshop with Kate Compton, a master class with Herbert Tucker, and talks by Tony Veale, Sarah Tindal Kareem, Louis Bury, Dennis Tenen, Whitney Sperrazza, and Bret Rothstein. 
+
+It's an emphatically interdisciplinary affair with far-flung scholars from Computer Science (Compton and Veale), English (Bury, Kareem, Sperrazza, and Tenen), and Art History (Rothstein) coming to UVa to talk about constraint, creativity, twitterbots, Oulipo, and puzzles. The assembled talks and supporting discussions will investigate classical tropes and artifacts (Kareem and Rothstein), early modern making (Sperrazza), form in the eighteenth and nineteenth centuries (Kareem and Tucker), artistic production in the moment of Modernism and after (Tenen, Bury, and Rothstein), including the freshly time-stamped offerings of moments ago (Compton, and Veale).
+
+Register for Kate Compton's workshop (and the lunch following) [here](https://docs.google.com/forms/d/e/1FAIpQLSfB8ZttNbHjjZc2nnmySGKtZoLfp3JcnetDO_3H7_76YYRleg/viewform).
+
+Download a collection of riddle poems for Chip Tucker's discussion [here]({{ site.url }}/docs/riddlepoems.pdf).
 
 More details available in our program, below:
 
