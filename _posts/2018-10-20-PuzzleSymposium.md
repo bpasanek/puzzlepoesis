@@ -5,7 +5,7 @@ title: Puzzles, Bots, and Poetics&#58; A Symposium
 categories: events
 ---
 
-### Puzzle, Bots, and Poetics: A Symposium
+### Puzzles, Bots, and Poetics: A Symposium
 
 ###### October 26th and 27th, Alderman 421. 
 
