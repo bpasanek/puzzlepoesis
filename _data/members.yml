@@ -95,6 +95,16 @@
   roles: 
       - role: Puzzle Design
 
+- name: Katie O'Neill
+  firstname: Katie
+  lastname: O'Neill
+  signet: ko
+  participation: Core
+  affiliations:
+      dept: Undeclared
+  roles: 
+      - role: Puzzle Design
+      
 - name: Brad Pasanek
   firstname: Brad
   lastname: Pasanek
