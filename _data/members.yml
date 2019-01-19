@@ -1,3 +1,23 @@
+- name: Aaron Abrams
+  firstname: Aaron
+  lastname: Abrams
+  signet: aa
+  participation: Core
+  affiliations:  
+      dept: Mathematics (Washington and Lee)
+  roles: 
+      - role: Puzzle Design
+      
+- name: Jesse Alloy
+  firstname: Jesse
+  lastname: Alloy
+  signet: ja
+  participation: Core
+  affiliations:  
+      dept: Computer Science
+  roles: 
+      - role: Puzzle Design
+
 - name: Jason Bennett
   firstname: Jason
   lastname: Bennett
