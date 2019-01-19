@@ -29,6 +29,16 @@
       - role: Puzzle Design
       - role: Author
 
+- name: Julia Fisher
+  firstname: Julia
+  lastname: Fisher
+  signet: jf
+  participation: Alum
+  affiliations:  
+      dept: English
+  roles: 
+      - role: Puzzle Design
+
 - name: David Hall
   firstname: David
   lastname: Hall
@@ -128,6 +138,16 @@
       - role: Puzzle Design
       - role: Web Design
 
+- name: Annie Thompson
+  firstname: Annie
+  lastname: Thompson
+  signet: at
+  participation: Core
+  affiliations:  
+      dept: English
+  roles: 
+      - role: Puzzle Design
+      
 - name: Andie Waterman
   firstname: Andie
   lastname: Waterman
