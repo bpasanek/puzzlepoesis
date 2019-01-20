@@ -66,7 +66,7 @@
   participation: Alum
   affiliations: 
       dept: English
-      dept: Computer Science
+      dept: English and Computer Science
   roles: 
       - role: Puzzle Design
       - role: Game Design
@@ -87,8 +87,7 @@
   signet: jl
   participation: Alum
   affiliations:
-      dept: English
-      dept: Computer Science
+      dept: English and Computer Science
   roles: 
       - role: Puzzle Design
       - role: Game Design
@@ -110,7 +109,7 @@
   participation: Alum
   affiliations:
       dept: English
-      dept: Art History
+      dept: Archaeology and English
   roles: 
       - role: Puzzle Design
       - role: Web Design
@@ -152,8 +151,7 @@
   signet: ts
   participation: Core
   affiliations:
-      dept: English
-      dept: Computer Science
+      dept: English and Computer Science
   roles: 
       - role: Puzzle Design
       - role: Web Design
