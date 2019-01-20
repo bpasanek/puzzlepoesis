@@ -11,8 +11,8 @@ This tournament brings together undergraduates in the UVa English department's s
 
 To date, we have staged  three tournaments. We've held these events in Bryan Hall, in Mem Gym, and in Brooks Hall Commons. Just below are images from the first two Games.
 
-![SonnetGamesI](./../../../../images/games-I.jpg){: .center-image }
-![SonnetGamesI](./../../../../images/games-ii.jpg){: .center-image }
+![SonnetGamesI](./../../../../images/games-I.jpg)
+![SonnetGamesI](./../../../../images/games-ii.jpg)
 
 Students participate in teams of four — which must be cleverly named. (Our favorite team names include Go Big or Go Homer, Merchants of Menace, The Peerless Ploughmen, and It's Getting Hwaet in Here.) 
 
