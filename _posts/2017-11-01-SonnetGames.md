@@ -9,6 +9,7 @@ categories: events
 
 This tournament brings together undergraduates in the UVa English department's survey courses (ENGL 3810 and 3820) to compete in time trials, racing to reconstruct poems from the  syllabus that our group has piecified. To date, we have staged  three tournaments. We've held these events in Bryan Hall, in Mem Gym, and in Brooks Hall Commons. Just below are images from these first three Games.
 
+![SonnetGamesI](./../../../../images/games-ii.jpg)
 ![SonnetGamesI](./../../../../images/games-I.jpg)
 ![SonnetGamesIII](./../../../../images/champions-ii.jpg)
 
