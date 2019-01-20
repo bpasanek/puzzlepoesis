@@ -7,7 +7,7 @@ categories: events
 
 ### Puzzles, Bots, and Poetics: A Symposium
 
-###### October 26th and 27th, Alderman 421. 
+###### October 26th and 27th, 2018, Alderman 421. 
 
 We are very excited about this event, which has been organized as a two-day conversation about poetics, very broadly construed. We're featuring a bot-making workshop with Kate Compton, a master class with Herbert Tucker, and talks by Tony Veale, Sarah Tindal Kareem, Louis Bury, Dennis Tenen, Whitney Sperrazza, and Bret Rothstein. 
 
