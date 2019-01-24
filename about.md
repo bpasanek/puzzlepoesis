@@ -19,7 +19,7 @@ With the help of [Clay Ford](http://data.library.virginia.edu/rds-staff/clay-for
 This year, two of [Nathan Brunelle's](https://engineering.virginia.edu/faculty/nathan-brunelle) CS students are working on our dissection and tiling problems as a capstone project. The ingenious Jesse Alloy has already had success in designing a piece of software that discovers tessellations in poem-shaped grids.
 
 ### Other Projects
-The group has imagined and produced a variety of puzzles in various media, some of which are collected as part of this site under the [Puzzles](./puzzles.html) rubric. We also hope to continue collaborating with [Gavin Garner](https://engineering.virginia.edu/faculty/gavin-garner) and U.Va.'s [Gizmologists](https://news.virginia.edu/content/student-gizmologists-engineer-unique-timepiece). We haven't fabricated anything with the Gizmologists as yet, but have an idea for a twisty puzzle-poem.
+The group has imagined and produced a variety of puzzles in various media, some of which are collected as part of this site under the [Puzzles](./puzzles.html) rubric. We hope some day to co-sponsor an event with UVa's [Center for Poetry & Poetics](http://poetryandpoetics.as.virginia.edu). We also hope to continue collaborating with [Gavin Garner](https://engineering.virginia.edu/faculty/gavin-garner) and U.Va.'s [Gizmologists](https://news.virginia.edu/content/student-gizmologists-engineer-unique-timepiece). We haven't fabricated anything with the Gizmologists as yet, but have an idea for a twisty puzzle-poem.
 
 ### Contact Information
 
