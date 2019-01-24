@@ -1,6 +1,6 @@
 # About
 
-Welcome to the website for UVa's Puzzle Poetry group. We're all about lasers, supercomputers, and prosody...
+Welcome to the website for UVa's Puzzle Poetry group. We're all about lasers, prosody,and supercomputers ...
 
 ### Our Story
 
