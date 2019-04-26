@@ -5,7 +5,7 @@ title: Humanities Week&#58; Instagram Puzzle
 categories: events
 ---
 
-### Humanities Week Instagram Puzzle
+### Humanities Week: Instagram Puzzle
 
 <h4>
 Authors: <a href="./../../../../people/bennett-jason.html">Jason Bennett</a>, <a href="./../../../../people/curtis-neal.html">Neal Curtis</a>, and <a href="./../../../../people/pasanek-brad.html">Brad Pasanek</a> 
