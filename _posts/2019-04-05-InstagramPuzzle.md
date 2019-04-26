@@ -1,7 +1,7 @@
 ---
 layout: default
 author: Jason Bennett, Neal Curtis, and Brad Pasanek
-title: The Sonnet Games
+title: Humanities Week&#58; Instagram Puzzle
 categories: events
 ---
 
