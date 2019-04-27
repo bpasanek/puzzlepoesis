@@ -1,6 +1,6 @@
 ---
 layout: default
-author: Jason Bennett, Brad Pasanek, and Neal Curtis
+author: Jason Bennett, Neal Curtis, and Brad Pasanek,
 title: Humanities Week (2019)&#58; Instagram Puzzle
 categories: events
 ---
