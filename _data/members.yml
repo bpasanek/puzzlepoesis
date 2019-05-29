@@ -48,6 +48,18 @@
   roles: 
       - role: Puzzle Design
       - role: Author
+      
+- name: Meghan Depue
+  firstname: Meghan
+  lastname: Depue
+  signet: md
+  participation: Alum
+  affiliations:
+      dept: Curry
+      dept: Spanish
+  roles: 
+      - role: Puzzle Design
+      - role: Author
 
 - name: Julia Fisher
   firstname: Julia
@@ -96,7 +108,7 @@
   firstname: Abigail
   lastname: Johnson
   signet: aj
-  participation: Core
+  participation: Alum
   affiliations:
       dept: English
   roles: 
@@ -149,7 +161,7 @@
   firstname: Tim
   lastname: Schott
   signet: ts
-  participation: Core
+  participation: Alum
   affiliations:
       dept: English and Computer Science
   roles: 

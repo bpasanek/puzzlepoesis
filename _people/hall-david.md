@@ -11,6 +11,6 @@ roles:
     -role: "Programming"
 ---
 
-David Hall is an undergraduate at U.Va. He is double-majoring in English and Computer Science. He is developing a puzzle Tetris game.
+David Hall, a founding member of the group, double-majored in English and Computer Science. He worked on several puzzle projects, including a puzzle Tetris game.
 
 [<< Back <<](../people.html)

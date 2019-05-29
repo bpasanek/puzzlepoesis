@@ -3,7 +3,7 @@ firstname: "Tim"
 lastname: "Schott"
 layout: default
 signet: "ts"
-participant: "Core"
+participant: "Alum"
 affiliations: 
     - dept: "English"
     - dept: "CS"
@@ -13,7 +13,7 @@ roles:
     -role: "Programming"
 ---
 
-Tim Schott is an undergraduate at U.Va. He is majoring in English and Computer Science. He helped build the website (fair warning: your mileage may vary).
+Tim Schott, a founding member, majored in English and Computer Science at UVa and graduated with High Distinction in 2019. He helped build the website and has been involved in several puzzle projects.
 
 [<< Back <<](../people.html)
 

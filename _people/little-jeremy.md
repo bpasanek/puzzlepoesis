@@ -2,7 +2,7 @@
 firstname: Jeremy
 lastname: Little
 signet: jl
-participation: Core
+participation: "Alum"
 layout: default
 affiliations:
     - dept: "English"
