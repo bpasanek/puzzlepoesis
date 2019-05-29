@@ -10,6 +10,6 @@ roles:
     - role: "Puzzle Design"
 ---
 
-Vanessa Braganza is an alumna of the U.Va. English department.
+Vanessa Braganza is an alumna of the U.Va. English department. She is currently a PhD candidate in English at Harvard University, studying early modern literature 
 
 [<< Back <<](../people.html)

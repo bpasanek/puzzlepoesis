@@ -12,7 +12,7 @@
   firstname: Jesse
   lastname: Alloy
   signet: ja
-  participation: Core
+  participation: Alum
   affiliations:  
       dept: Computer Science
   roles: 
@@ -55,8 +55,7 @@
   signet: md
   participation: Alum
   affiliations:
-      dept: Curry
-      dept: Spanish
+      dept: Curry School and Spanish
   roles: 
       - role: Puzzle Design
       - role: Author
@@ -77,7 +76,6 @@
   signet: dh
   participation: Alum
   affiliations: 
-      dept: English
       dept: English and Computer Science
   roles: 
       - role: Puzzle Design
@@ -156,6 +154,16 @@
   roles: 
       - role: Puzzle Design
       - role: Web Design
+
+- name: Claire Raymond
+  firstname: Claire
+  lastname: Raymond
+  signet: cr
+  participation: Core
+  affiliations:
+      dept: Art History
+  roles: 
+      - role: Puzzle Design
 
 - name: Tim Schott
   firstname: Tim
