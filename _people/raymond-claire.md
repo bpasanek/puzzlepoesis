@@ -10,6 +10,6 @@ roles:
     - role: Puzzle Design
 ---
 
-A core member of the Puzzle Poetry group, ![Claire Raymond](http://people.virginia.edu/~scp2u/) is a scholar, a poet, and a Lecturer in UVa's Art History department. 
+A core member of the Puzzle Poetry group, [Claire Raymond](http://people.virginia.edu/~scp2u/) is a scholar, a poet, and a Lecturer in UVa's Art History department. 
 
 [<< Back <<](../people.html)
