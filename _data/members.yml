@@ -134,10 +134,10 @@
   roles: 
       - role: Puzzle Design
 
-- name: Katie O'Neill
-  firstname: Katie
+- name: Theo O'Neill
+  firstname: Theo
   lastname: O'Neill
-  signet: ko
+  signet: to
   participation: Core
   affiliations:
       dept: Undeclared
