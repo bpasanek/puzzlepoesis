@@ -3,7 +3,7 @@ firstname: "David"
 lastname: "Hall"
 layout: default
 signet: "jb"
-participant: "Core"
+participant: "Alum"
 affiliations: 
     - dept: "Learning Design & Technology"
 roles: 

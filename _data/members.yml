@@ -85,7 +85,7 @@
   firstname: Chelsea
   lastname: Li
   signet: cl
-  participation: Core
+  participation: Alum
   affiliations: 
       dept: English
   roles: 
@@ -101,6 +101,16 @@
   roles: 
       - role: Puzzle Design
       - role: Game Design
+      
+- name: Michelle Lovering
+  firstname: Michelle
+  lastname: Lovering
+  signet: ml
+  participation: Core
+  affiliations:  
+      dept: Computer Science
+  roles: 
+      - role: Puzzle Design
 
 - name: Abigail Johnson
   firstname: Abigail
@@ -176,6 +186,16 @@
       - role: Puzzle Design
       - role: Web Design
 
+- name: Aaron Thompson
+  firstname: Aaron
+  lastname: Thompson
+  signet: at
+  participation: Core
+  affiliations:  
+      dept: Slavic Languages and Literatures
+  roles: 
+      - role: Puzzle Design
+
 - name: Annie Thompson
   firstname: Annie
   lastname: Thompson
@@ -190,7 +210,7 @@
   firstname: Andie
   lastname: Waterman
   signet: aw
-  participation: Core
+  participation: Alum
   affiliations:
       dept: English
   roles: 
@@ -200,7 +220,7 @@
   firstname: Madeline
   lastname: Zehnder
   signet: mz
-  participation: Core
+  participation: Alum
   affiliations:
       dept: English
   roles: 
