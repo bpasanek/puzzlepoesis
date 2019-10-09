@@ -10,6 +10,6 @@ roles:
     - role: "Puzzle Design"
 ---
 
-Michell Lovering, who is interested in puzzles, escape rooms, and web design, is an undergraduate in Computer Science at U.Va.
+Michelle Lovering is an undergraduate in Computer Science at U.Va. She is interested in puzzles, escape rooms, and web design.
 
 [<< Back <<](../people.html)
