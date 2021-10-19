@@ -38,6 +38,17 @@
   roles: 
       - role: Puzzle Design
 
+- name: Nathan Brunelle
+  firstname: Nathan
+  lastname: Brunelle
+  signet: nb
+  participation: Core
+  affiliations:  
+      dept: Computer Science
+  roles: 
+      - role: Puzzle Design
+      - role: Game Design
+
 - name: Brenna Courtney
   firstname: Brenna
   lastname: Courtney
