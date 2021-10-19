@@ -38,6 +38,17 @@
   roles: 
       - role: Puzzle Design
 
+- name: Brenna Courtney
+  firstname: Brenna
+  lastname: Courtney
+  signet: bc
+  participation: Core
+  affiliations: 
+      dept: English and Computer Science
+  roles: 
+      - role: Puzzle Design
+      - role: Game Design
+
 - name: Neal Curtis
   firstname: Neal
   lastname: Curtis
@@ -81,6 +92,28 @@
       - role: Puzzle Design
       - role: Game Design
 
+- name: Noah Holloway
+  firstname: Noah
+  lastname: Holloway
+  signet: nh
+  participation: Core
+  affiliations: 
+      dept: Computer Science
+  roles: 
+      - role: Puzzle Design
+      - role: Game Design
+
+- name: Alex Li
+  firstname: Alex
+  lastname: Li
+  signet: al
+  participation: Core
+  affiliations: 
+      dept: Flux Poetry, Liaison
+  roles: 
+      - role: Puzzle Design
+      - role: Game Design
+
 - name: Chelsea Li
   firstname: Chelsea
   lastname: Li
@@ -106,7 +139,7 @@
   firstname: Michelle
   lastname: Lovering
   signet: ml
-  participation: Core
+  participation: Alum
   affiliations:  
       dept: Computer Science
   roles: 
@@ -138,7 +171,7 @@
   firstname: Julianne
   lastname: McCobin
   signet: jm
-  participation: Core
+  participation: Alum
   affiliations:
       dept: English
   roles: 
@@ -169,7 +202,7 @@
   firstname: Claire
   lastname: Raymond
   signet: cr
-  participation: Core
+  participation: Alum
   affiliations:
       dept: Art History
   roles: 
@@ -200,7 +233,7 @@
   firstname: Annie
   lastname: Thompson
   signet: at
-  participation: Core
+  participation: Alum
   affiliations:  
       dept: English
   roles: 
