@@ -2,7 +2,7 @@
 firstname: "Vanessa"
 lastname: "Braganza"
 signet: "vb"
-participant: "Core"
+participant: "Alum"
 layout: default
 affiliations:  
     dept: "English [alumna]"
