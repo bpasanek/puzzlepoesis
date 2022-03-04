@@ -2,6 +2,7 @@
   firstname: Aaron
   lastname: Abrams
   signet: aa
+  web: https://my.wlu.edu/directory/profile?ID=x7426
   participation: Core
   affiliations:  
       dept: Mathematics
@@ -22,9 +23,21 @@
   firstname: Jason
   lastname: Bennett
   signet: jb
+  web: https://learningdesign.as.virginia.edu/jason-bennett
   participation: Core
   affiliations:  
       dept: Learning Design & Technology
+  roles: 
+      - role: Puzzle Design
+
+- name: Rebecca Barry
+  firstname: Rebecca
+  lastname: Barry
+  signet: rb
+  web: https://english.as.virginia.edu/people/profile/ftv2wm
+  participation: Core
+  affiliations:  
+      dept: English
   roles: 
       - role: Puzzle Design
 
@@ -32,6 +45,7 @@
   firstname: Vanessa
   lastname: Braganza
   signet: vb
+  web: https://scholar.harvard.edu/vmbraganza/home
   participation: Alum
   affiliations:  
       dept: English
@@ -42,6 +56,7 @@
   firstname: Nathan
   lastname: Brunelle
   signet: nb
+  web: https://engineering.virginia.edu/faculty/nathan-brunelle
   participation: Core
   affiliations:  
       dept: Computer Science
@@ -53,6 +68,7 @@
   firstname: Brenna
   lastname: Courtney
   signet: bc
+  web: https://brennacourtney.com/about
   participation: Core
   affiliations: 
       dept: English and Computer Science
@@ -64,6 +80,7 @@
   firstname: Neal
   lastname: Curtis
   signet: nc
+  web: https://english.as.virginia.edu/people/profile/ndc2fb
   participation: Core
   affiliations:
       dept: English
@@ -75,6 +92,7 @@
   firstname: Meghan
   lastname: Depue
   signet: md
+  web: https://www.linkedin.com/in/meghan-depue-08b03722a
   participation: Alum
   affiliations:
       dept: Curry School and Spanish
@@ -86,6 +104,7 @@
   firstname: Julia
   lastname: Fisher
   signet: jf
+  web: https://www.linkedin.com/in/julia-fisher-08611a18
   participation: Alum
   affiliations:  
       dept: English
@@ -96,6 +115,7 @@
   firstname: David
   lastname: Hall
   signet: dh
+  web: 
   participation: Alum
   affiliations: 
       dept: English and Computer Science
@@ -107,6 +127,7 @@
   firstname: Noah
   lastname: Holloway
   signet: nh
+  web: 
   participation: Core
   affiliations: 
       dept: Computer Science
@@ -118,6 +139,7 @@
   firstname: Alex
   lastname: Li
   signet: al
+  web: https://www.linkedin.com/in/alex-m-li
   participation: Core
   affiliations: 
       dept: Flux Poetry, Liaison
@@ -129,6 +151,7 @@
   firstname: Chelsea
   lastname: Li
   signet: cl
+  web: https://chelseali.com
   participation: Alum
   affiliations: 
       dept: English
@@ -139,6 +162,7 @@
   firstname: Jeremy
   lastname: Little
   signet: jl
+  web: https://www.linkedin.com/in/jeremy-little-28b678113
   participation: Alum
   affiliations:
       dept: English and Computer Science
@@ -150,6 +174,7 @@
   firstname: Michelle
   lastname: Lovering
   signet: ml
+  web: https://www.linkedin.com/in/michelle-lovering-088b3a127
   participation: Alum
   affiliations:  
       dept: Computer Science
@@ -160,6 +185,7 @@
   firstname: Abigail
   lastname: Johnson
   signet: aj
+  web: https://www.linkedin.com/in/abigail-johnson-7700b611b
   participation: Alum
   affiliations:
       dept: English
@@ -170,6 +196,7 @@
   firstname: Lauren
   lastname: Johnson
   signet: lj
+  web: 
   participation: Alum
   affiliations:
       dept: English
@@ -182,6 +209,7 @@
   firstname: Julianne
   lastname: McCobin
   signet: jm
+  web: https://www.linkedin.com/in/julianne-mccobin-28531989
   participation: Alum
   affiliations:
       dept: English
@@ -192,6 +220,7 @@
   firstname: Theo
   lastname: O'Neill
   signet: to
+  web: https://www.linkedin.com/in/theooneill
   participation: Alum
   affiliations:
       dept: Astronomy-Physics and Statistics
@@ -202,6 +231,7 @@
   firstname: Brad
   lastname: Pasanek
   signet: bp
+  web: https://english.as.virginia.edu/people/profile/bmp7e
   participation: Core
   affiliations:
       dept: English
@@ -213,6 +243,7 @@
   firstname: Claire
   lastname: Raymond
   signet: cr
+  web: https://www.claireraymond.org
   participation: Alum
   affiliations:
       dept: Art History
@@ -223,6 +254,7 @@
   firstname: Tim
   lastname: Schott
   signet: ts
+  web: https://timschott.com/projects/
   participation: Alum
   affiliations:
       dept: English and Computer Science
@@ -234,6 +266,7 @@
   firstname: Aaron
   lastname: Thompson
   signet: at
+  web: https://slavic.as.virginia.edu/graduate-students
   participation: Core
   affiliations:  
       dept: Slavic Languages and Literatures
@@ -244,6 +277,7 @@
   firstname: Annie
   lastname: Thompson
   signet: at
+  web: https://english.as.virginia.edu/people/profile/act5up
   participation: Alum
   affiliations:  
       dept: English
@@ -254,6 +288,7 @@
   firstname: Andie
   lastname: Waterman
   signet: aw
+  web: https://english.as.virginia.edu/people/profile/akw2ma
   participation: Alum
   affiliations:
       dept: English
@@ -264,6 +299,7 @@
   firstname: Madeline
   lastname: Zehnder
   signet: mz
+  web: https://madelinezehnder.com
   participation: Alum
   affiliations:
       dept: English
