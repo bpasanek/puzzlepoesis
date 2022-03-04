@@ -27,7 +27,7 @@ We believe our experiments will make poetic structure more accessible to literar
 	{% for member in site.data.members %}
         {% if member.participation == 'Alum' %}
 	<li>
-		<a href = "{{site.baseurl}}/people/{{member.lastname | downcase}}-{{member.firstname | downcase}}.html">{{member.firstname}} {{member.lastname}}</a> | {{member.affiliations.dept}}
+		<a href = "{{member.web}}">{{member.firstname}} {{member.lastname}}</a> | {{member.affiliations.dept}}
         </li>
         {% endif %}		
     {% endfor %}
