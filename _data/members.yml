@@ -64,6 +64,18 @@
       - role: Puzzle Design
       - role: Game Design
 
+- name: Colin Buyck
+  firstname: Colin
+  lastname: Buyck
+  signet: cb
+  web: https://www.linkedin.com/in/colin-buyck-a8bb9617a
+  participation: Core
+  affiliations:  
+      dept: Computer Science
+  roles: 
+      - role: Puzzle Design
+      - role: Game Design
+
 - name: Brenna Courtney
   firstname: Brenna
   lastname: Courtney
@@ -205,6 +217,17 @@
       - role: Puzzle Design
       - role: Web Design
 
+- name: Alexander Maksiaev
+  firstname: Alexander
+  lastname: Maksiaev
+  signet: am
+  web: 
+  participation: Core
+  affiliations:
+      dept: Cognitive Science
+  roles: 
+      - role: Puzzle Design
+      
 - name: Julianne McCobin
   firstname: Julianne
   lastname: McCobin
