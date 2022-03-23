@@ -1,6 +1,6 @@
 ---
 layout: default
-author: Neal Curtis and Brad Pasanek,
+author: Brad Pasanek
 title: Humanities Week (2020)&#58; Remix
 categories: events
 ---
