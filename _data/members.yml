@@ -69,12 +69,23 @@
   lastname: Buyck
   signet: cb
   web: https://www.linkedin.com/in/colin-buyck-a8bb9617a
-  participation: Core
+  participation: Alum
   affiliations:  
       dept: Computer Science
   roles: 
       - role: Puzzle Design
       - role: Game Design
+      
+- name: Aleyna Buyukaksakal
+  firstname: Aleyna
+  lastname: Buyukaksakal
+  signet: ab
+  web: https://bpasanek.github.io/puzzlepoesis/people.html
+  participation: Core
+  affiliations: 
+      dept: Neuroscience and English
+  roles: 
+      - role: Puzzle Design
 
 - name: Brenna Courtney
   firstname: Brenna
@@ -140,7 +151,7 @@
   lastname: Holloway
   signet: nh
   web: https://bpasanek.github.io/puzzlepoesis/people.html
-  participation: Core
+  participation: Alum
   affiliations: 
       dept: Computer Science
   roles: 
@@ -152,7 +163,7 @@
   lastname: Li
   signet: al
   web: https://www.linkedin.com/in/alex-m-li
-  participation: Core
+  participation: Alum
   affiliations: 
       dept: Flux Poetry, Liaison
   roles: 
@@ -315,6 +326,17 @@
   participation: Alum
   affiliations:
       dept: English
+  roles: 
+      - role: Puzzle Design
+
+- name: Ben Wieland
+  firstname: Ben
+  lastname: Wieland
+  signet: bw
+  web: https://www.linkedin.com/in/ben-wieland-00b766180/
+  participation: Core
+  affiliations:
+      dept: Statistics and History
   roles: 
       - role: Puzzle Design
 

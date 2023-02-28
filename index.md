@@ -9,6 +9,7 @@ You have arrived at the home of UVA's Puzzle Poetry working group, launched in t
 
 Several of our efforts are documented in these pages. Follow us on [Instagram](https://www.instagram.com/puzzlepoesis/). More puzzle projects are forthcoming...
 
+We are meeting spring 2023 on Fridays at 3pm in Wilson 117. Stop through and be puzzled.
 
 <!--
 
