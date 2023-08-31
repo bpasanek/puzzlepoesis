@@ -15,7 +15,6 @@ As the Humanities Week theme for this year was “Back to the Present,” we des
 
 ![Map](../../../../images/ciphermap.png)
 
-
 These first four “primary locations” were the Sarah Brown Library, the sundial near the Rotunda stairs, the Circadian Rhythms Lab at Gilmer Hall, and an upstairs alcove in the Albert and Shirley Small Special Collections Library. Teams exploring these locations discovered small laminated cards, each numbered and labeled with an apt line from T.S. Eliot’s *Four Quartets*. Upon scanning the QR code at each location, teams then faced a Qualtrics form containing a unique puzzle — each requiring interaction with, or attention to, the immediate environment to solve. 
 
 Sarah Brown Library  
@@ -71,7 +70,6 @@ And the slowest get left behind
 SOLUTION:  
 POWER HOUR
 
-
 Entering the correct answer into the form yielded a time in the form 00:00. Teams then had to discern that in order to progress to the next stage of the hunt, they would have to plot these times onto each respective clockface and extend the minute hands until they intersected, like so (see red lines):
 
 ![Map Intersections](../../../../images/Map-Intersections.png)
@@ -103,7 +101,6 @@ Teams then repeated the same procedure as before. In this round, however, inputt
 
 ![Map Final Intersection](../../../../images/Map-Intersections2.png)
 
-
 The other time, however, was the same between the two secondary locations, which in fact indicated when teams were to show up at the final, “tertiary location,” the University Chapel. There, at the appointed time — 1:00pm on the final day of the hunt — members of Puzzle Poesis sat in wait with the final, determining QR code and puzzle. 
 
 Chapel
@@ -117,7 +114,6 @@ Tell us, what is the official name of the thing on screen from 25:32 to 25:35?
 
 SOLUTION:  
 TRAFFIC LIGHT
-
 
 Congratulations to: The Henchmen (Kyle Peterson, Thomas Harlow), Army of Schmee (Connor Rose, Everett Vereen), and little green (wo)men (Alexander Templeton, Claire Thilenius)!
 
