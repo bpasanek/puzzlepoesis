@@ -34,8 +34,8 @@
   firstname: Rebecca
   lastname: Barry
   signet: rb
-  web: https://english.as.virginia.edu/people/profile/ftv2wm
-  participation: Core
+  web: https://www.linkedin.com/in/rebecca-barry-838322241/
+  participation: Alum
   affiliations:  
       dept: English
   roles: 
@@ -92,7 +92,7 @@
   lastname: Courtney
   signet: bc
   web: https://brennacourtney.com/about
-  participation: Core
+  participation: Alum
   affiliations: 
       dept: English and Computer Science
   roles: 
@@ -317,7 +317,18 @@
       dept: English
   roles: 
       - role: Puzzle Design
-      
+
+- name: Xiwen (Miranda) Wang
+  firstname: Xiwen
+  lastname: Wang
+  signet: mw
+  web: https://english.as.virginia.edu/people/profile/xw2pa
+  participation: Core
+  affiliations:
+      dept: English
+  roles: 
+      - role: Puzzle Design
+ 
 - name: Andie Waterman
   firstname: Andie
   lastname: Waterman
