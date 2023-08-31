@@ -18,7 +18,7 @@ As the Humanities Week theme for this year was “Back to the Present,” we des
 These first four “primary locations” were the Sarah Brown Library, the sundial near the Rotunda stairs, the Circadian Rhythms Lab at Gilmer Hall, and an upstairs alcove in the Albert and Shirley Small Special Collections Library. Teams exploring these locations discovered small laminated cards, each numbered and labeled with an apt line from T.S. Eliot’s *Four Quartets*. Upon scanning the QR code at each location, teams then faced a Qualtrics form containing a unique puzzle — each requiring interaction with, or attention to, the immediate environment to solve. 
 
 Sarah Brown Library  
-![Library](../../../../images/SB-Library.jpg)
+![Library](../../../../images/SB-Library.jpg){:width="70%"}
 
 PUZZLE:
 This number of eyes may help you to see  
@@ -32,7 +32,7 @@ SOLUTION:
 ENVY IRON MENTAL LIST
 
 Sundial  
-![Sundial](../../../../images/Sundial.png)
+![Sundial](../../../../images/Sundial.png){:width="70%"}
 
 PUZZLE:  
 2:12, 1:04, 3:06, 5:20, 7:08  
@@ -56,11 +56,11 @@ SOLUTION:
 5:10
 
 Special Collections Alcove  
-![Clock Face](../../../../images/SpecColl-Clock1.jpg)  
-![Clock Inside](../../../../images/SpecColl-Clock2.jpg)
+![Clock Face](../../../../images/SpecColl-Clock1.jpg){:width="70%"}  
+![Clock Inside](../../../../images/SpecColl-Clock2.jpg){:width="70%"}
 
 PUZZLE: 
-![Clock Inside](../../../../images/Pendulum.png )
+![Pendulum](../../../../images/Pendulum.png){:width="70%"}
 
 Right might be slow  
 Left might be fast   
@@ -78,7 +78,7 @@ Entering the correct answer into the form yielded a time in the form 00:00. Team
 These two intersections on the map thus indicated the next two locations in which QR codes would be found. These two “secondary locations” were the Rotunda Planetarium and the VR Station on the third floor of the Clemons Library. 
 
 Rotunda Planetarium  
-![Rotunda Planetarium](../../../../images/RotundaPlanetarium.png)
+![Rotunda Planetarium](../../../../images/RotundaPlanetarium.png){:width="70%"}
 
 
 PUZZLE:  
@@ -101,14 +101,14 @@ Teams then repeated the same procedure as before. In this round, however, inputt
 
 ![Map Final Intersection](../../../../images/Map-Intersections2.png)
 
-The other time, however, was the same between the two secondary locations, which in fact indicated when teams were to show up at the final, “tertiary location,” the University Chapel. There, at the appointed time — 1:00pm on the final day of the hunt — members of Puzzle Poesis sat in wait with the final, determining QR code and puzzle. 
+The other time, however, was the same between the two secondary locations, which in fact indicated when teams were to show up at the final, “tertiary location,” the University Chapel. There, at the appointed time — 1:00pm on the final day of the hunt — members of Puzzle Poesis sat in wait with the final, determining QR code and puzzle based on a piece of music written and performed by a former member of Puzzle Poetry. 
 
 Chapel
 
 PUZZLE:  
 ![YoutTube](../../../../images/YouTube-Pentomino.png)
 
-Follow the link to Cameron Church's musical performance: https://www.youtube.com/watch?v=M6jV7dr8AG8 
+Follow the link to Cameron Church's musical performance: (https://www.youtube.com/watch?v=M6jV7dr8AG8)[https://www.youtube.com/watch?v=M6jV7dr8AG8] 
 
 Tell us, what is the official name of the thing on screen from 25:32 to 25:35?
 
