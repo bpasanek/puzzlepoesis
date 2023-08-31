@@ -17,7 +17,7 @@ As the Humanities Week theme for this year was “Back to the Present,” we des
 
 These first four “primary locations” were the Sarah Brown Library, the sundial near the Rotunda stairs, the Circadian Rhythms Lab at Gilmer Hall, and an upstairs alcove in the Albert and Shirley Small Special Collections Library. Teams exploring these locations discovered small laminated cards, each numbered and labeled with an apt line from T.S. Eliot’s *Four Quartets*. Upon scanning the QR code at each location, teams then faced a Qualtrics form containing a unique puzzle — each requiring interaction with, or attention to, the immediate environment to solve. 
 
-Sarah Brown Library  
+**Location: Sarah Brown Library**  
 ![Library](../../../../images/SB-Library.jpg){:width="70%"}
 
 >PUZZLE:
@@ -31,7 +31,7 @@ Sarah Brown Library
 >SOLUTION:  
 >ENVY IRON MENTAL LIST
 
-Sundial  
+**Location: Sundial**  
 ![Sundial](../../../../images/Sundial.png){:width="70%"}
 
 >PUZZLE:  
@@ -42,7 +42,7 @@ Sundial
 >SOLUTION:  
 >HENRY VAN DYKE
 
-Circadian Rhythms Lab
+**Location: Circadian Rhythms Lab**
 
 >PUZZLE:  
 >Circadian rhythms cycle up, down,  
@@ -55,13 +55,13 @@ Circadian Rhythms Lab
 >SOLUTION:  
 >5:10
 
-Special Collections Alcove  
+**Location: Special Collections Alcove**  
 ![Clock Face](../../../../images/SpecColl-Clock1.jpg){:width="70%"}  
 ![Clock Inside](../../../../images/SpecColl-Clock2.jpg){:width="70%"}
 
->PUZZLE: 
->![Pendulum](../../../../images/Pendulum.png){:width="50%"}
-
+>PUZZLE:  
+>![Pendulum](../../../../images/Pendulum.png){:width="50%"}  
+>
 >Right might be slow  
 >Left might be fast   
 >But the fastest are right  
@@ -77,7 +77,7 @@ Entering the correct answer into the form yielded a time in the form 00:00. Team
 
 These two intersections on the map thus indicated the next two locations in which QR codes would be found. These two “secondary locations” were the Rotunda Planetarium and the VR Station on the third floor of the Clemons Library. 
 
-Rotunda Planetarium  
+**Location: Rotunda Planetarium**  
 ![Rotunda Planetarium](../../../../images/RotundaPlanetarium.png){:width="70%"}
 
 >PUZZLE:  
@@ -88,7 +88,7 @@ Rotunda Planetarium
 >SOLUTION:  
 >3:50 (or 10:15)
 
-Virtual Reality
+**Location: Virtual Reality**
 
 >PUZZLE:  
 >Teams donned the headset and played a game involving shadows and the sun in a stonehenge setting in order to arrive at the solution.
@@ -102,7 +102,7 @@ Teams then repeated the same procedure as before. In this round, however, inputt
 
 The other time, however, was the same between the two secondary locations, which in fact indicated when teams were to show up at the final, “tertiary location,” the University Chapel. There, at the appointed time — 1:00pm on the final day of the hunt — members of Puzzle Poesis sat in wait with the final, determining QR code and puzzle based on a piece of music written and performed by a former member of Puzzle Poetry. 
 
-Chapel
+**Final Location: Chapel**
 
 >PUZZLE:  
 >![YoutTube](../../../../images/YouTube-Pentomino.png)
