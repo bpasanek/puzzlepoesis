@@ -9,7 +9,7 @@ categories: events
 
 For IHGC’s [Humanities Week 2023](https://www.hw-uva.com), Puzzle Poesis put on its second annual grounds-wide scavenger hunt of puzzles and riddles. 
 
-![Flyer](../../../../images/CypherHuntFLyer2023.png)
+![Flyer](../../../../images/CipherHuntFlyer2023.png)
 
 As the Humanities Week theme for this year was “Back to the Present,” we designed the cipher hunt to be accordingly time-oriented. Teams began with a map of the UVa grounds marked with four blank clockfaces, each indicating a location at which a QR code was to be found:
 
@@ -20,7 +20,7 @@ These first four “primary locations” were the Sarah Brown Library, the sundi
 Sarah Brown Library  
 ![Library](../../../../images/SB-Library.jpg){:width="70%"}
 
-PUZZLE:
+>PUZZLE:
 >This number of eyes may help you to see  
 >Columns well worn yet still anomaly.  
 >Look up: divided thus with equal flair  
@@ -60,7 +60,7 @@ Special Collections Alcove
 ![Clock Inside](../../../../images/SpecColl-Clock2.jpg){:width="70%"}
 
 >PUZZLE: 
->![Pendulum](../../../../images/Pendulum.png){:width="70%"}
+>![Pendulum](../../../../images/Pendulum.png){:width="50%"}
 
 >Right might be slow  
 >Left might be fast   
