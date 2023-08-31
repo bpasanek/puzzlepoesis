@@ -7,11 +7,12 @@ categories: events
 
 ### Humanities Week 2022, "Human/Ties"
 
-![Flyer](../../../../images/Instagram-Flyer1.jpg)
-
 For IHGC’s [Humanities Week 2022](https://www.hw-uva.com/2022-humanties.html), Puzzle Poesis staged its first annual grounds-wide scavenger hunt of puzzles and riddles. 
 
-The Humanities Week theme for the year was “Human/Ties” or “Humanities,” a playful title that inspired our poem-puzzles. Indeed, the phrase “human ties” was used to reverse engineer a series of ciphers, concluding with an encrypted pentameter line from Alexander Pope: “Love free! As air at sight of human ties” (from Eloisa and Abelard), the final ciphered solution. This fragment of poetry was encoded into a [cipher wheel](https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/wheel-cipher/) inspired by Thomas Jefferson. Built up as a hexagonal prism we laser inscribed the faces of each with the lines of poetry found at each of the five locations. The puzzle is shown below, newly cut and resting on the bed of an A-School 
+![Flyer](../../../../images/Instagram-Flyer1.jpg)
+
+
+The Humanities Week theme for the year was “Human/Ties” or “Humanities,” a playful title that inspired our poem-puzzles. Indeed, the phrase “human ties” was used to reverse engineer a series of ciphers, concluding with an encrypted pentameter line from Alexander Pope: “Love free! As air at sight of human ties” (from *Eloisa and Abelard*), the final ciphered solution. This fragment of poetry was encoded into a [cipher wheel](https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/wheel-cipher/) inspired by Thomas Jefferson. Built up as a hexagonal prism we laser inscribed the faces of each with the lines of poetry found at each of the five locations. The puzzle is shown below, newly cut and resting on the bed of an A-School 
 
 ![Wheel](../../../../images/CipherWheel.jpg)
 
@@ -81,7 +82,7 @@ The first place winner was Larb Conquest (Lara Ojha, Thomas Williams, Ryan Kenyo
 Site Developer: Colin Buyck  
 Cipher Author: Brenna Courtney  
 Designer: Alexander Maksiaev  
-Data Entry Specialist: Jason Bennet  
+Data Entry Specialist: Jason Bennett  
 Marketing Executive: Maryann Xue  
 Logistics Coordinator: Mary Margaret Lea  
 Humanities Week Liaison: Rebecca Barry  
