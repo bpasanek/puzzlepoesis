@@ -17,14 +17,14 @@ The Humanities Week theme for the year was “Human/Ties” or “Humanities,”
 
 The hunt itself started with an “easy peasy” cipher. 
 
-A hint,  
-CEASY PEASY → HJFXD UJFXD
-
-Prepared the way for the first cipher:  
-BWNYNSLHJSYJWGWDFS
-
-The solution to which was:  
-WRITINGCENTERBRYAN
+>A hint,  
+>CEASY PEASY → HJFXD UJFXD
+>
+>Prepared the way for the first cipher:  
+>BWNYNSLHJSYJWGWDFS
+>
+>The solution to which was:  
+>WRITINGCENTERBRYAN
 
 Teams then discovered the next QR code at the Bryan Hall Writing Center. So the pattern continued, with teams receiving a hint for the cipher and the enciphered text itself at each location, the solution to which pointed the way to the next location. 
 
